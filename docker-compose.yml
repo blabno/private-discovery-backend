@@ -1,0 +1,10 @@
+version: '2'
+services:
+  app:
+    image: node:8.9
+    command: yarn nodemon
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - 3000:3000
