@@ -16,6 +16,13 @@ module.exports = {
       config: {
         description: 'Get posts in the feed',
         tags: ['api'],
+        validate: {
+          query: {
+            q: joi.string(),
+            size: joi.number().integer().min(0).max(100),
+            from: joi.number().integer().min(0)
+          }
+        },
         plugins: {
           'hapi-swagger': {
             responses: {
@@ -30,7 +37,7 @@ module.exports = {
         }
       },
       handler(request, reply) {
-        return Promise.try(() => business(request).getPostManager().search())
+        return Promise.try(() => business(request).getPostManager().search(request.query))
           .catch(error => restUtil.handleError(error, reply));
       }
     });

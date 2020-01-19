@@ -4,7 +4,7 @@ const postDAO = require('../dao/postDAO');
 
 
 function create(/* business*/) {
-  const search = () => postDAO.search();
+  const search = filter => postDAO.search(filter);
 
   return {
     search

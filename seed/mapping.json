@@ -1,0 +1,14 @@
+{
+  "post": {
+    "dynamic": "strict",
+    "properties": {
+      "createDate": {
+        "type": "date",
+        "format": "epoch_millis"
+      },
+      "title": {
+        "type": "text"
+      }
+    }
+  }
+}
