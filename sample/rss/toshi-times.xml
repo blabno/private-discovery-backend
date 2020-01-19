@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+    <channel>
+        <title>Toshi Times</title>
+        <atom:link href="https://toshitimes.com/feed/" rel="self" type="application/rss+xml"/>
+        <link>https://toshitimes.com</link>
+        <description>Crypto News - Bitcoin, Ethereum and Blockchain</description>
+        <lastBuildDate>Sun, 19 Jan 2020 20:02:08 +0000</lastBuildDate>
+        <language>en-US</language>
+        <sy:updatePeriod>
+            hourly
+        </sy:updatePeriod>
+        <sy:updateFrequency>
+            1
+        </sy:updateFrequency>
+
+
+        <image>
+            <url>https://toshitimes.com/wp-content/uploads/2018/03/cropped-favicon-32x32.png</url>
+            <title>Toshi Times</title>
+            <link>https://toshitimes.com</link>
+            <width>32</width>
+            <height>32</height>
+        </image>
+
+        <webfeeds:related layout="card" target="browser"/>
+
+        <site xmlns="com-wordpress:feed-additions:1">143312817</site>
+        <item>
+            <title>Trader Who Predicted $20,000 Bitcoin High Says Market Has Hit Its “Bottom”</title>
+            <link>https://toshitimes.com/trader-who-predicted-20000-bitcoin-high-says-market-has-hit-its-bottom/</link>
+            <comments>
+                https://toshitimes.com/trader-who-predicted-20000-bitcoin-high-says-market-has-hit-its-bottom/#respond
+            </comments>
+            <pubDate>Sun, 19 Jan 2020 20:02:06 +0000</pubDate>
+            <dc:creator><![CDATA[Rasmus Pihl]]></dc:creator>
+            <category><![CDATA[All news]]></category>
+
+            <guid isPermaLink="false">https://toshitimes.com/?p=11680</guid>
+            <description><![CDATA[<p>The veteran trader Peter Brandt is most well-known as the man who predicted Bitcoin’s all-time high of $20,000. Now, however, Brandt is back in the news. Specifically, he is now saying that Bitcoin’s price has hit the “bottom”. Brandt: “Bitcoin has hit its bottom” This new statement came in a recent market discussion with the &#8230; <a href="https://toshitimes.com/trader-who-predicted-20000-bitcoin-high-says-market-has-hit-its-bottom/" class="more-link">Continue reading <span class="screen-reader-text">Trader Who Predicted $20,000 Bitcoin High Says Market Has Hit Its “Bottom”</span> <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://toshitimes.com/trader-who-predicted-20000-bitcoin-high-says-market-has-hit-its-bottom/">Trader Who Predicted $20,000 Bitcoin High Says Market Has Hit Its “Bottom”</a> appeared first on <a rel="nofollow" href="https://toshitimes.com">Toshi Times</a>.</p>
+]]></description>
+            <wfw:commentRss>
+                https://toshitimes.com/trader-who-predicted-20000-bitcoin-high-says-market-has-hit-its-bottom/feed/
+            </wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <post-id xmlns="com-wordpress:feed-additions:1">11680</post-id>
+        </item>
+        <item>
+            <title>Bitcoin SV Continues Falling As Lawyer Reveals Craig Wright Has No Private Keys</title>
+            <link>
+                https://toshitimes.com/bitcoin-sv-continues-falling-as-lawyer-reveals-craig-wright-has-no-private-keys/
+            </link>
+            <comments>
+                https://toshitimes.com/bitcoin-sv-continues-falling-as-lawyer-reveals-craig-wright-has-no-private-keys/#respond
+            </comments>
+            <pubDate>Sun, 19 Jan 2020 01:36:47 +0000</pubDate>
+            <dc:creator><![CDATA[Rasmus Pihl]]></dc:creator>
+            <category><![CDATA[All news]]></category>
+
+            <guid isPermaLink="false">https://toshitimes.com/?p=11674</guid>
+            <description><![CDATA[<p>Bitcoin SV has been in the news for the past week after an impressive rally. Now, however, the crypto has fallen by more than 40% since its high this week. Moreover, Craig Wright’s lawyer has now said that Wright does not have access to private Bitcoin keys, contrary to recent rumors. Bitcoin SV has fallen &#8230; <a href="https://toshitimes.com/bitcoin-sv-continues-falling-as-lawyer-reveals-craig-wright-has-no-private-keys/" class="more-link">Continue reading <span class="screen-reader-text">Bitcoin SV Continues Falling As Lawyer Reveals Craig Wright Has No Private Keys</span> <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://toshitimes.com/bitcoin-sv-continues-falling-as-lawyer-reveals-craig-wright-has-no-private-keys/">Bitcoin SV Continues Falling As Lawyer Reveals Craig Wright Has No Private Keys</a> appeared first on <a rel="nofollow" href="https://toshitimes.com">Toshi Times</a>.</p>
+]]></description>
+            <wfw:commentRss>
+                https://toshitimes.com/bitcoin-sv-continues-falling-as-lawyer-reveals-craig-wright-has-no-private-keys/feed/
+            </wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <post-id xmlns="com-wordpress:feed-additions:1">11674</post-id>
+        </item>
+        <item>
+            <title>Bitcoin Recently Passed $9,000 As Analysts Say This Rally Will Be “Different”</title>
+            <link>https://toshitimes.com/bitcoin-recently-passed-9000-as-analysts-say-this-rally-will-be-different/
+            </link>
+            <comments>
+                https://toshitimes.com/bitcoin-recently-passed-9000-as-analysts-say-this-rally-will-be-different/#respond
+            </comments>
+            <pubDate>Fri, 17 Jan 2020 16:09:10 +0000</pubDate>
+            <dc:creator><![CDATA[Rasmus Pihl]]></dc:creator>
+            <category><![CDATA[All news]]></category>
+
+            <guid isPermaLink="false">https://toshitimes.com/?p=11668</guid>
+            <description><![CDATA[<p>The price of Bitcoin has been steadily on the uptick for the past few days. Although it has been circling around the $8,700 line for a long time, that trend now appears to be broken. Instead, Bitcoin shot up past the $9,000 line and this has analysts excited. Bitcoin briefly passes $9,000 Earlier today, January &#8230; <a href="https://toshitimes.com/bitcoin-recently-passed-9000-as-analysts-say-this-rally-will-be-different/" class="more-link">Continue reading <span class="screen-reader-text">Bitcoin Recently Passed $9,000 As Analysts Say This Rally Will Be “Different”</span> <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://toshitimes.com/bitcoin-recently-passed-9000-as-analysts-say-this-rally-will-be-different/">Bitcoin Recently Passed $9,000 As Analysts Say This Rally Will Be “Different”</a> appeared first on <a rel="nofollow" href="https://toshitimes.com">Toshi Times</a>.</p>
+]]></description>
+            <wfw:commentRss>
+                https://toshitimes.com/bitcoin-recently-passed-9000-as-analysts-say-this-rally-will-be-different/feed/
+            </wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <post-id xmlns="com-wordpress:feed-additions:1">11668</post-id>
+        </item>
+        <item>
+            <title>Bitcoin Hovers Around $8,700 As Poll Suggests $20,000 Bitcoin Price</title>
+            <link>https://toshitimes.com/bitcoin-hovers-around-8700-as-poll-suggests-20000-bitcoin-price/</link>
+            <comments>https://toshitimes.com/bitcoin-hovers-around-8700-as-poll-suggests-20000-bitcoin-price/#respond
+            </comments>
+            <pubDate>Thu, 16 Jan 2020 20:22:51 +0000</pubDate>
+            <dc:creator><![CDATA[Rasmus Pihl]]></dc:creator>
+            <category><![CDATA[All news]]></category>
+
+            <guid isPermaLink="false">https://toshitimes.com/?p=11662</guid>
+            <description><![CDATA[<p>The cryptocurrency market is trading mostly sideways today, after some gains earlier in the week. At the moment of writing, the price of Bitcoin is trading at $8,697. However, although the price of Bitcoin is hovering around $8,700, a fresh poll suggests it may have a massive upside. Bitcoin SV has had a dramatic week &#8230; <a href="https://toshitimes.com/bitcoin-hovers-around-8700-as-poll-suggests-20000-bitcoin-price/" class="more-link">Continue reading <span class="screen-reader-text">Bitcoin Hovers Around $8,700 As Poll Suggests $20,000 Bitcoin Price</span> <span class="meta-nav">&#8594;</span></a></p>
+<p>The post <a rel="nofollow" href="https://toshitimes.com/bitcoin-hovers-around-8700-as-poll-suggests-20000-bitcoin-price/">Bitcoin Hovers Around $8,700 As Poll Suggests $20,000 Bitcoin Price</a> appeared first on <a rel="nofollow" href="https://toshitimes.com">Toshi Times</a>.</p>
+]]></description>
+            <wfw:commentRss>
+                https://toshitimes.com/bitcoin-hovers-around-8700-as-poll-suggests-20000-bitcoin-price/feed/
+            </wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <post-id xmlns="com-wordpress:feed-additions:1">11662</post-id>
+        </item>
+    </channel>
+</rss>
