@@ -1,15 +1,11 @@
 'use strict';
 
+const sampleFeedA = require('./sampleFeedA');
+
 const search = () => {
   return {
-    results: [
-      {
-        id: '1',
-        title: 'Chancellor on brink of second bailout for banks',
-        createDate: 1230940800000
-      }
-    ],
-    total: 10
+    results: sampleFeedA.rss.channel.item,
+    total: sampleFeedA.rss.channel.item.length
   };
 };
 
