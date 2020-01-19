@@ -10,12 +10,15 @@ const vision = require('vision');
 
 const config = require('../config');
 const packageJson = require('../../package.json');
+const postEndpoint = require('./post.endpoint');
 
-function registerRoutes(/* server*/) {
+function registerRoutes(server) {
+  postEndpoint.register(server);
 }
 
 function tags() {
   return [
+    postEndpoint.tag
   ];
 }
 
@@ -23,8 +26,8 @@ const hapiSwaggerPlugin = {
   plugin: hapiSwagger,
   options: {
     host: config.swagger.host,
-    basePath: '/api',
-    pathPrefixSize: 2,
+    basePath: '/',
+    pathPrefixSize: 1,
     expanded: 'none',
     info: {
       title: packageJson.description,

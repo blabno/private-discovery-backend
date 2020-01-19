@@ -1,9 +1,13 @@
 'use strict';
 
-// const getContext = (request = { auth: {} }) => ({});
+const postManager = require('./post.manager');
 
-module.exports = (/* request*/) => {
-  // const context = getContext(request);
+const getter = manager => function () {
+  return manager.create(this);
+};
 
-  return {};
+module.exports = () => {
+  return {
+    getPostManager: getter(postManager)
+  };
 };
