@@ -1,15 +1,32 @@
 'use strict';
 
+const applicationError = require('../service/applicationError');
 const daoUtil = require('./util');
 const entityConverter = require('./entityConverter');
 
+const { NotFoundError } = applicationError;
+
 const type = 'feed-item';
+
+const markRead = id => {
+  const params = daoUtil.getParams(type, { id, body: { doc: { read: true } } });
+  return daoUtil.getElasticSearchClient()
+    .update(params)
+    .then(() => null)
+    .catch(error => {
+      if (404 === error.status) {
+        throw new NotFoundError(`${type} with id=${id} not found`);
+      } else {
+        throw error;
+      }
+    });
+};
 
 const search = (filter = {}) => {
   const must = [];
   const mustNot = [];
   if (!filter.includeUnread) {
-    mustNot.push({ term: { read: false } });
+    mustNot.push({ term: { read: true } });
   }
   const query = {
     body: {
@@ -41,6 +58,7 @@ const search = (filter = {}) => {
 };
 
 module.exports = {
+  markRead,
   saveBulk: daoUtil.createSaveBulkMethod(type),
   search
 };

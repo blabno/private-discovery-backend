@@ -43,6 +43,32 @@ module.exports = {
           .catch(error => restUtil.handleError(error, reply));
       }
     });
+    server.route({
+      method: 'PUT',
+      path: '/wall/{id}/mark-read',
+      config: {
+        description: 'Mark wall item as already seen',
+        tags: ['api'],
+        validate: {
+          params: {
+            id: joi.string().required()
+          }
+        },
+        plugins: {
+          'hapi-swagger': {
+            responses: {
+              204: {}
+            }
+          }
+        }
+      },
+      handler(request, reply) {
+        return Promise.try(() => business(request).getWallManager().markRead(request.params.id))
+          .then(() => reply.response().code(204))
+          .catch(error => restUtil.handleError(error, reply));
+      }
+    });
+
   },
   tag: {
     name: 'wall',

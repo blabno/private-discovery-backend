@@ -1,5 +1,5 @@
 'use strict';
 
-const businessFactory = require('../app/business');
+const $http = require('http-as-promised');
 
-(async () => await businessFactory().getSubscriptionManager().syncAll())();
+(async () => await $http.post('http://localhost:3000/subscriptions/sync'))();

@@ -12,6 +12,9 @@
       "link": {
         "type": "keyword",
         "index": false
+      },
+      "read": {
+        "type": "keyword"
       }
     }
   },
