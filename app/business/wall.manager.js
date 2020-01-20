@@ -1,12 +1,12 @@
 'use strict';
 
-const feedItemDAO = require('../dao/feedItemDAO');
+const wallItemDAO = require('../dao/wallItemDAO');
 
 
 function create(/* business*/) {
-  const markRead = id => feedItemDAO.markRead(id);
+  const markRead = id => wallItemDAO.markRead(id);
 
-  const search = filter => feedItemDAO.search(filter);
+  const search = filter => wallItemDAO.search(filter);
 
   return {
     markRead,

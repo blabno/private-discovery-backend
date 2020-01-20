@@ -18,6 +18,19 @@
       }
     }
   },
+  "like": {
+    "dynamic": "strict",
+    "properties": {
+      "createDate": {
+        "type": "date",
+        "format": "epoch_millis"
+      },
+      "link": {
+        "type": "keyword",
+        "index": false
+      }
+    }
+  },
   "post": {
     "dynamic": "strict",
     "properties": {

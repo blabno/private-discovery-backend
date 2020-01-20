@@ -27,7 +27,7 @@ module.exports = {
         plugins: {
           'hapi-swagger': {
             responses: {
-              204: {
+              200: {
                 schema: joi.object({
                   results: joi.array().required().items(schema.wallItem.withId).label('wallItems'),
                   total: joi.number().integer().min(0).required()
@@ -68,7 +68,6 @@ module.exports = {
           .catch(error => restUtil.handleError(error, reply));
       }
     });
-
   },
   tag: {
     name: 'wall',

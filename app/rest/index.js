@@ -9,12 +9,14 @@ const inert = require('inert');
 const vision = require('vision');
 
 const config = require('../config');
+const feedEndpoint = require('./feed.endpoint');
 const packageJson = require('../../package.json');
 const postEndpoint = require('./post.endpoint');
 const subscriptionEndpoint = require('./subscription.endpoint');
 const wallEndpoint = require('./wall.endpoint');
 
 function registerRoutes(server) {
+  feedEndpoint.register(server);
   postEndpoint.register(server);
   subscriptionEndpoint.register(server);
   wallEndpoint.register(server);
@@ -22,6 +24,7 @@ function registerRoutes(server) {
 
 function tags() {
   return [
+    feedEndpoint.tag,
     postEndpoint.tag,
     subscriptionEndpoint.tag,
     wallEndpoint.tag

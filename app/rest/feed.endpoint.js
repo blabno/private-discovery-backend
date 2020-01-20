@@ -12,9 +12,9 @@ module.exports = {
   register(server) {
     server.route({
       method: 'GET',
-      path: '/posts',
+      path: '/feed',
       config: {
-        description: 'Get posts in the feed',
+        description: 'Read what you have published or shared',
         tags: ['api'],
         validate: {
           query: {
@@ -28,22 +28,23 @@ module.exports = {
             responses: {
               200: {
                 schema: joi.object({
-                  results: joi.array().required().items(schema.post.withId).label('posts'),
+                  results: joi.array().required().items(schema.feedItem.withId).label('feedItems'),
                   total: joi.number().integer().min(0).required()
-                }).label('searchPostsResponse')
+                }).label('searchFeedResponse')
               }
+
             }
           }
         }
       },
       handler(request, reply) {
-        return Promise.try(() => business(request).getPostManager().search(request.query))
+        return Promise.try(() => business(request).getFeedManager().search(request.query))
           .catch(error => restUtil.handleError(error, reply));
       }
     });
   },
   tag: {
-    name: 'posts',
-    description: 'Manage posts'
+    name: 'feed',
+    description: 'Manage feed'
   }
 };

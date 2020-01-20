@@ -1,5 +1,11 @@
 {
   "feed-item": [],
+  "like": [
+    {
+      "createDate": 1230768000000,
+      "link": "https://www.getmonero.org/"
+    }
+  ],
   "post": [
     {
       "title": "Chancellor on brink of second bailout for banks",

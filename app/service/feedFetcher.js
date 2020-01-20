@@ -6,7 +6,7 @@ const moment = require('moment');
 const xml2js = require('xml2js');
 
 const { sha256 } = require('./crypto');
-const feedItemDAO = require('../dao/feedItemDAO');
+const wallItemDAO = require('../dao/wallItemDAO');
 
 
 const parseRSS = async body => {
@@ -36,7 +36,7 @@ const fetchFeed = async ({ id, url, format }) => {
   const body = await $http.get(url, { resolve: 'body' });
   const items = await parse(format, body);
   // TODO we should upsert to not overwrite "read" flag
-  return feedItemDAO.saveBulk(mapIds(id, items));
+  return wallItemDAO.saveBulk(mapIds(id, items));
 };
 
 module.exports = {

@@ -31,7 +31,7 @@ module.exports = {
     });
   },
   tag: {
-    name: 'subscription',
+    name: 'subscriptions',
     description: 'Manage subscriptions'
   }
 };
