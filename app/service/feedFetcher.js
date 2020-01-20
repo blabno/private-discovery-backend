@@ -11,7 +11,7 @@ const wallItemDAO = require('../dao/wallItemDAO');
 
 const parseRSS = async body => {
   const mapFields = (mapping, item) => _.reduce(_.keys(mapping),
-    (acc, field) => _.set(acc, field, _.get(item, mapping[field])), item);
+    (acc, field) => _.set(acc, field, _.trim(_.get(item, mapping[field]))), item);
   const result = await xml2js.parseStringPromise(body);
   return _.chain(result)
     .get('rss.channel[0].item')
