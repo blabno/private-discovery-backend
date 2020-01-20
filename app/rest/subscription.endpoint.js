@@ -23,7 +23,7 @@ module.exports = {
         }
       },
       handler(request, reply) {
-        //TODO this endpoint should be well secured cause if abused it could take down the system
+        // TODO this endpoint should be well secured cause if abused it could take down the system
         return Promise.try(() => business(request).getSubscriptionManager().syncAll())
           .then(() => reply.response().code(204))
           .catch(error => restUtil.handleError(error, reply));

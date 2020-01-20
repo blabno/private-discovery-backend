@@ -12,16 +12,19 @@ const config = require('../config');
 const packageJson = require('../../package.json');
 const postEndpoint = require('./post.endpoint');
 const subscriptionEndpoint = require('./subscription.endpoint');
+const wallEndpoint = require('./wall.endpoint');
 
 function registerRoutes(server) {
   postEndpoint.register(server);
   subscriptionEndpoint.register(server);
+  wallEndpoint.register(server);
 }
 
 function tags() {
   return [
     postEndpoint.tag,
-    subscriptionEndpoint.tag
+    subscriptionEndpoint.tag,
+    wallEndpoint.tag
   ];
 }
 

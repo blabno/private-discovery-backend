@@ -35,6 +35,7 @@ const fetchFeed = async ({ id, url, format }) => {
   // TODO pass the lastRead argument
   const body = await $http.get(url, { resolve: 'body' });
   const items = await parse(format, body);
+  // TODO we should upsert to not overwrite "read" flag
   return feedItemDAO.saveBulk(mapIds(id, items));
 };
 

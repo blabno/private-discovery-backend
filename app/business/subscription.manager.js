@@ -12,7 +12,7 @@ function create(/* business*/) {
 
   const sync = async subscription => {
     try {
-      //TODO verify if bulk was successful or log the errors
+      // TODO verify if bulk was successful or log the errors
       await fetchFeed(subscription);
     } catch (e) {
       console.error(`Unable to sync subscription ${subscription.id} ${subscription.format} ${subscription.url}`, e);
@@ -20,7 +20,7 @@ function create(/* business*/) {
   };
 
   const syncAll = async () => {
-    //TODO save sync data as document in db and return it so that client can see the status
+    // TODO save sync data as document in db and return it so that client can see the status
     if (syncAllInProgress) {
       return;
     }
