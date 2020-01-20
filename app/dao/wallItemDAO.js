@@ -8,8 +8,8 @@ const { NotFoundError } = applicationError;
 
 const type = 'feed-item';
 
-const markRead = id => {
-  const params = daoUtil.getParams(type, { id, body: { doc: { read: true } } });
+const update = (id, doc) => {
+  const params = daoUtil.getParams(type, { id, body: { doc } });
   return daoUtil.getElasticSearchClient()
     .update(params)
     .then(() => null)
@@ -21,6 +21,10 @@ const markRead = id => {
       }
     });
 };
+
+const markNotRead = id => update(id, { read: false });
+
+const markRead = id => update(id, { read: true });
 
 const search = (filter = {}) => {
   const must = [];
@@ -58,6 +62,7 @@ const search = (filter = {}) => {
 };
 
 module.exports = {
+  markNotRead,
   markRead,
   saveBulk: daoUtil.createSaveBulkMethod(type),
   search
