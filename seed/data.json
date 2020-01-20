@@ -9,5 +9,22 @@
       "title": "Trader Who Predicted $20,000 Bitcoin High Says Market Has Hit Its \"Bottom\"",
       "createDate": 1579465583374
     }
+  ],
+  "subscription": [
+    {
+      "format": "rss",
+      "name": "Toshi Times",
+      "url": "http://serve:5000/sample/rss/toshi-times.xml"
+    },
+    {
+      "format": "rss",
+      "name": "RaspberryPi",
+      "url": "http://serve:5000/sample/rss/raspberrypi.xml"
+    },
+    {
+      "format": "rss",
+      "name": "Yubico",
+      "url": "http://serve:5000/sample/rss/yubico.xml"
+    }
   ]
 }

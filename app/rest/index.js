@@ -11,14 +11,17 @@ const vision = require('vision');
 const config = require('../config');
 const packageJson = require('../../package.json');
 const postEndpoint = require('./post.endpoint');
+const subscriptionEndpoint = require('./subscription.endpoint');
 
 function registerRoutes(server) {
   postEndpoint.register(server);
+  subscriptionEndpoint.register(server);
 }
 
 function tags() {
   return [
-    postEndpoint.tag
+    postEndpoint.tag,
+    subscriptionEndpoint.tag
   ];
 }
 

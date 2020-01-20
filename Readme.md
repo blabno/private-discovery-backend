@@ -15,6 +15,8 @@ Install new dependency (i.e. lodash) :
 Start the app in live reload mode:
 
     docker-compose up
+    
+Swagger documentation will be available at http://localhost:3000/documentation.
 
 Seed sample data:
 
@@ -29,9 +31,7 @@ Run static analysis:
 
     docker-compose run app yarn lint --fix
     
-Start HTTP server to host static files:
+HTTP server to host static sample files is started by Docker Compose:
 
-    npm run serve
-    
     curl http://localhost:5000/sample/rss/toshi-times.xml
     

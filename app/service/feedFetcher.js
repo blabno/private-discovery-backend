@@ -2,18 +2,12 @@
 
 const _ = require('lodash');
 const $http = require('http-as-promised');
-const crypto = require('crypto');
 const moment = require('moment');
 const xml2js = require('xml2js');
 
+const { sha256 } = require('./crypto');
 const feedItemDAO = require('../dao/feedItemDAO');
 
-
-const sha256 = input => {
-  const hash = crypto.createHash('sha256');
-  hash.update(input);
-  return hash.digest('hex');
-};
 
 const parseRSS = async body => {
   const mapFields = (mapping, item) => _.reduce(_.keys(mapping),
@@ -41,16 +35,9 @@ const fetchFeed = async ({ id, url, format }) => {
   // TODO pass the lastRead argument
   const body = await $http.get(url, { resolve: 'body' });
   const items = await parse(format, body);
-  await feedItemDAO.saveBulk(mapIds(id, items));
+  return feedItemDAO.saveBulk(mapIds(id, items));
 };
 
 module.exports = {
   fetchFeed
 };
-
-fetchFeed({
-  id: 'ohawv28BZGZcERoSWG84',
-  // url: 'https://toshitimes.com/feed/',
-  url: 'http://localhost:5000/sample/rss/toshi-times.xml',
-  format: 'rss'
-});

@@ -26,5 +26,28 @@
         "type": "text"
       }
     }
+  },
+  "subscription": {
+    "dynamic": "strict",
+    "properties": {
+      "createDate": {
+        "type": "date",
+        "format": "epoch_millis"
+      },
+      "format": {
+        "type": "keyword",
+        "index": false
+      },
+      "name": {
+        "type": "keyword"
+      },
+      "url": {
+        "type": "keyword"
+      },
+      "syncDate": {
+        "type": "date",
+        "format": "epoch_millis"
+      }
+    }
   }
 }

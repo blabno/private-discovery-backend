@@ -3,6 +3,7 @@
 const elasticsearch = require('elasticsearch');
 
 const config = require('../config');
+const scroller = require('./scroll');
 
 const es = new elasticsearch.Client({ ...config.es.options });
 
@@ -42,8 +43,21 @@ const createSaveBulkMethod = type => {
   };
 };
 
+const createScrollMethod = type => {
+  return (query, callback, settings) => {
+    const scrollerQuery = {
+      body: {
+        query
+      }
+    };
+    const params = getParams(type, scrollerQuery);
+    return scroller(es, params, settings, callback);
+  };
+};
+
 module.exports = {
   createSaveBulkMethod,
+  createScrollMethod,
   getElasticSearchClient,
   getIndexName,
   getParams

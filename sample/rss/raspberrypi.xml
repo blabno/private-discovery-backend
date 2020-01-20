@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+
+    <channel>
+        <title>Raspberry Pi</title>
+        <atom:link href="https://www.raspberrypi.org/feed/" rel="self" type="application/rss+xml"/>
+        <link>https://www.raspberrypi.org</link>
+        <description>Teach, learn and make with Raspberry Pi</description>
+        <lastBuildDate>Fri, 17 Jan 2020 14:08:00 +0000</lastBuildDate>
+        <language>en-GB</language>
+        <sy:updatePeriod>
+            hourly
+        </sy:updatePeriod>
+        <sy:updateFrequency>
+            1
+        </sy:updateFrequency>
+        <generator>https://wordpress.org/?v=5.3.2</generator>
+        <item>
+            <title>Fake cases — make sure yours is the real deal</title>
+            <link>https://www.raspberrypi.org/blog/fake-cases-make-sure-yours-is-the-real-deal/</link>
+            <comments>https://www.raspberrypi.org/blog/fake-cases-make-sure-yours-is-the-real-deal/#comments</comments>
+            <pubDate>Fri, 17 Jan 2020 13:25:23 +0000</pubDate>
+            <dc:creator><![CDATA[Liz Upton]]></dc:creator>
+            <category><![CDATA[Other Raspberry Pi Products]]></category>
+            <category><![CDATA[cases]]></category>
+            <category><![CDATA[approved resellers]]></category>
+            <category><![CDATA[fake]]></category>
+
+            <guid isPermaLink="false">https://www.raspberrypi.org/?p=55625</guid>
+            <description><![CDATA[<p>We&#8217;ve had some reports of people finding cases that pretend to be official Raspberry Pi products online — these are fakes, they&#8217;re violating our trademark, they&#8217;re not made very well, and they&#8217;re costing you and us money that would otherwise go to fund the Raspberry Pi Foundation&#8217;s charitable work. (Reminder, for those who are new [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/fake-cases-make-sure-yours-is-the-real-deal/">Fake cases — make sure yours is the real deal</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>We&#8217;ve had some reports of people finding cases that pretend to be official Raspberry Pi products online — these are fakes, they&#8217;re violating our trademark, they&#8217;re not made very well, and they&#8217;re costing you and us money that would otherwise go to fund the Raspberry Pi Foundation&#8217;s charitable work. (Reminder, for those who are new to this stuff: we&#8217;re a not-for-profit, which means that every penny we makes goes to support <a href="https://www.raspberrypi.org/about/">our work in education</a>, and that none of us gets to own a yacht.)</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/case.gif"><img class="aligncenter size-full wp-image-55643" src="https://www.raspberrypi.org/app/uploads/2020/01/case.gif" alt="" width="369" height="213" /></a></p>
+<h2>Making sure your accessories are legit</h2>
+<p>If you want to be certain that the Raspberry Pi accessories you buy are the real thing, make sure you&#8217;re purchasing from one of our Authorised Resellers: if you <a href="https://www.raspberrypi.org/products/">buy via our website</a>, you&#8217;ll automatically be directed to the Authorised Resellers in your region. Lots of other vendors also sell the official case, so if you&#8217;re wondering whether yours is the real thing, we&#8217;ve found there are some easy ways to tell the difference.</p>
+<p><img class="aligncenter size-large wp-image-55628" src="https://www.raspberrypi.org/app/uploads/2020/01/FEET-HOLES-500x281.jpg" alt="" width="500" height="281" srcset="https://www.raspberrypi.org/app/uploads/2020/01/FEET-HOLES-500x281.jpg 500w, https://www.raspberrypi.org/app/uploads/2020/01/FEET-HOLES-300x169.jpg 300w, https://www.raspberrypi.org/app/uploads/2020/01/FEET-HOLES-768x432.jpg 768w, https://www.raspberrypi.org/app/uploads/2020/01/FEET-HOLES-1536x864.jpg 1536w, https://www.raspberrypi.org/app/uploads/2020/01/FEET-HOLES-2048x1152.jpg 2048w, https://www.raspberrypi.org/app/uploads/2020/01/FEET-HOLES-1920x1080.jpg 1920w" sizes="(max-width: 500px) 100vw, 500px" /> <img class="aligncenter size-large wp-image-55629" src="https://www.raspberrypi.org/app/uploads/2020/01/WITNESS-MARKS-500x281.jpg" alt="" width="500" height="281" srcset="https://www.raspberrypi.org/app/uploads/2020/01/WITNESS-MARKS-500x281.jpg 500w, https://www.raspberrypi.org/app/uploads/2020/01/WITNESS-MARKS-300x169.jpg 300w, https://www.raspberrypi.org/app/uploads/2020/01/WITNESS-MARKS-768x432.jpg 768w, https://www.raspberrypi.org/app/uploads/2020/01/WITNESS-MARKS-1536x864.jpg 1536w, https://www.raspberrypi.org/app/uploads/2020/01/WITNESS-MARKS-2048x1152.jpg 2048w, https://www.raspberrypi.org/app/uploads/2020/01/WITNESS-MARKS-1920x1080.jpg 1920w" sizes="(max-width: 500px) 100vw, 500px" /> <img class="aligncenter size-large wp-image-55630" src="https://www.raspberrypi.org/app/uploads/2020/01/Lid-Clips-500x281.jpg" alt="" width="500" height="281" srcset="https://www.raspberrypi.org/app/uploads/2020/01/Lid-Clips-500x281.jpg 500w, https://www.raspberrypi.org/app/uploads/2020/01/Lid-Clips-300x169.jpg 300w, https://www.raspberrypi.org/app/uploads/2020/01/Lid-Clips-768x432.jpg 768w, https://www.raspberrypi.org/app/uploads/2020/01/Lid-Clips-1536x864.jpg 1536w, https://www.raspberrypi.org/app/uploads/2020/01/Lid-Clips-2048x1152.jpg 2048w, https://www.raspberrypi.org/app/uploads/2020/01/Lid-Clips-1920x1080.jpg 1920w" sizes="(max-width: 500px) 100vw, 500px" /> <img class="aligncenter size-large wp-image-55631" src="https://www.raspberrypi.org/app/uploads/2020/01/LOGO-500x281.jpg" alt="" width="500" height="281" srcset="https://www.raspberrypi.org/app/uploads/2020/01/LOGO-500x281.jpg 500w, https://www.raspberrypi.org/app/uploads/2020/01/LOGO-300x169.jpg 300w, https://www.raspberrypi.org/app/uploads/2020/01/LOGO-768x432.jpg 768w, https://www.raspberrypi.org/app/uploads/2020/01/LOGO-1536x864.jpg 1536w, https://www.raspberrypi.org/app/uploads/2020/01/LOGO-2048x1152.jpg 2048w, https://www.raspberrypi.org/app/uploads/2020/01/LOGO-1920x1080.jpg 1920w" sizes="(max-width: 500px) 100vw, 500px" /> <img class="aligncenter size-large wp-image-55632" src="https://www.raspberrypi.org/app/uploads/2020/01/CASES-500x281.jpg" alt="" width="500" height="281" srcset="https://www.raspberrypi.org/app/uploads/2020/01/CASES-500x281.jpg 500w, https://www.raspberrypi.org/app/uploads/2020/01/CASES-300x169.jpg 300w, https://www.raspberrypi.org/app/uploads/2020/01/CASES-768x432.jpg 768w, https://www.raspberrypi.org/app/uploads/2020/01/CASES-1536x864.jpg 1536w, https://www.raspberrypi.org/app/uploads/2020/01/CASES-2048x1152.jpg 2048w, https://www.raspberrypi.org/app/uploads/2020/01/CASES-1920x1080.jpg 1920w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>A wellwisher sent us one of the fake cases (elegantly photographed by Fiacre above), which we passed around the office with a great deal of wincing, imagining what you guys might say if you got your hands on one and thought we&#8217;d made it. They&#8217;re really not very nice; the moulding&#8217;s awful, the fit&#8217;s bad, the colour&#8217;s off, and we&#8217;d be embarrassed if we had made something like this ourselves.</p>
+<h2>Asking the experts</h2>
+<p>We thought we&#8217;d ask the good people at T-Zero, who did all the work on the tooling and injection moulding for the real case (which is a considerably harder job than we&#8217;d imagined at first — you can read about the very bumpy road we had before finding T-Zero, who are amazing partners, in <a href="https://www.raspberrypi.org/blog/raspberry-pi-official-case/">this post from days of yore</a>), why the fake cases look so hideous. Simon Oliver, Grand Poobah of Plastics, wrote back:</p>
+<blockquote><p>Basically, what you are witnessing is very cheaply and quickly made tooling. The flash is just poor toolmaking. The rounded edges are due to the toolmaking method of milling everything, which is quick and cheap, but you can’t get definition of sharp corners because you have to have a radius in places. I have tried to explain it below, and you have to think in reverse for the tool.</p></blockquote>
+<p><img class="aligncenter size-large wp-image-55635" src="https://www.raspberrypi.org/app/uploads/2020/01/image003-500x186.png" alt="Milling artifacts" width="500" height="186" srcset="https://www.raspberrypi.org/app/uploads/2020/01/image003-500x186.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/image003-300x112.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/image003-768x286.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/image003.png 809w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<blockquote><p>Can you imagine how many electrodes are needed for the logo? The leaves around the top have to be laser-cut into an electrode to get the definition. See screen grabs of the tool and moulding — look how many sharp corners there are!</p></blockquote>
+<p><img class="aligncenter size-large wp-image-55636" src="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.39-500x313.png" alt="CAD representations of logo and tool" width="500" height="313" srcset="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.39-500x313.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.39-300x188.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.39-768x480.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.39-1536x960.png 1536w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.39-1728x1080.png 1728w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.39.png 1920w" sizes="(max-width: 500px) 100vw, 500px" /> <img class="aligncenter size-large wp-image-55637" src="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.31-1-500x313.png" alt="" width="500" height="313" srcset="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.31-1-500x313.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.31-1-300x188.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.31-1-768x480.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.31-1-1536x960.png 1536w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.31-1-1728x1080.png 1728w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2019-12-16-17.31.31-1.png 1920w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<blockquote><p>To properly make a tool for something this complicated, you need more electrodes than someone quickly copying a case like this would find economical. The official Raspberry Pi case needed 140 electrodes to produce the tool.</p>
+<div id="attachment_55654" style="width: 510px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-55654" class="size-large wp-image-55654" src="https://www.raspberrypi.org/app/uploads/2020/01/electrodes1-500x667.png" alt="Electrodes" width="500" height="667" srcset="https://www.raspberrypi.org/app/uploads/2020/01/electrodes1-500x667.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/electrodes1-188x250.png 188w, https://www.raspberrypi.org/app/uploads/2020/01/electrodes1.png 738w" sizes="(max-width: 500px) 100vw, 500px" /><p id="caption-attachment-55654" class="wp-caption-text">A few of the electrodes that went to make the injection moulding tool for the official case</p></div>
+<p>&nbsp;</p>
+<p>Reverse-engineering by digitising existing components in a CAD will also loose definition, particularly in sharp corners, as the moulding process will form a small radius even if the tool is a sharp corner.</p>
+<p>Plastic shrinks away from a 90 degree corner, leaving a smallish radius in any case. So your data from digitising will have a radius, and then [the producers] compound it by milling the lot.</p>
+<p>Finally, the colour is off! It took ages to get your Raspberry Pi red correct. A lot of suppliers can’t repeat it; the current supplier had five attempts!</p></blockquote>
+<p>Thanks, Simon; and to everybody reading this, we hope it arms you with the confidence to make sure you&#8217;re buying a genuine product!</p>
+<h2>FYI</h2>
+<p>Before panic ensues, please note: we love third-party cases designed for Raspberry Pi. So much so that we sell a few of them in <a href="https://www.raspberrypi.org/raspberry-pi-store/">our store here in Cambridge</a>.</p>
+<p>The internet is full of innovative cases you can purchase, as well as wonderful 3D-printable alternatives you can make yourself, and as long as they aren&#8217;t breaking any trademark rules — using our logo, copying the work of others, pretending to be official when they&#8217;re not — that&#8217;s great!</p>
+<p>If you&#8217;ve designed a case for any of the Raspberry Pi models, share it with us in the comments below, as we&#8217;d love to see your work. And if you see a case, or any other Raspberry Pi accessory, for sale that you think is breaking trademark rules or attempting to imitate our official products, please let us know.</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/fake-cases-make-sure-yours-is-the-real-deal/">Fake cases — make sure yours is the real deal</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://www.raspberrypi.org/blog/fake-cases-make-sure-yours-is-the-real-deal/feed/
+            </wfw:commentRss>
+            <slash:comments>20</slash:comments>
+        </item>
+        <item>
+            <title>Code a Boulder Dash mining game &#124; Wireframe #30</title>
+            <link>https://www.raspberrypi.org/blog/code-a-boulder-dash-mining-game-wireframe-30/</link>
+            <comments>https://www.raspberrypi.org/blog/code-a-boulder-dash-mining-game-wireframe-30/#comments</comments>
+            <pubDate>Thu, 16 Jan 2020 12:13:30 +0000</pubDate>
+            <dc:creator><![CDATA[Ryan Lambie]]></dc:creator>
+            <category><![CDATA[Uncategorized]]></category>
+            <category><![CDATA[Wireframe]]></category>
+            <category><![CDATA[Python]]></category>
+            <category><![CDATA[retro games]]></category>
+            <category><![CDATA[How to]]></category>
+            <category><![CDATA[wireframe]]></category>
+
+            <guid isPermaLink="false">https://www.raspberrypi.org/?p=55561</guid>
+            <description><![CDATA[<p>Learn how to code a simple Boulder Dash homage in Python and Pygame. Mark Vanstone shows you how.  Boulder Dash Boulder Dash first appeared in 1984 for the Commodore 64, Apple II, and the Atari 400/800. It featured an energetic gem collector called Rockford who, thanks to some rather low-resolution graphics, looked a bit like [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/code-a-boulder-dash-mining-game-wireframe-30/">Code a Boulder Dash mining game | Wireframe #30</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p><em>Learn how to code a simple Boulder Dash homage in Python and Pygame. <strong>Mark Vanstone</strong> shows you how. </em></p>
+<div id="attachment_55562" style="width: 1023px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-55562" class="size-full wp-image-55562" src="https://www.raspberrypi.org/app/uploads/2020/01/Screen1.png" alt="" width="1013" height="577" srcset="https://www.raspberrypi.org/app/uploads/2020/01/Screen1.png 1013w, https://www.raspberrypi.org/app/uploads/2020/01/Screen1-300x171.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/Screen1-500x285.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/Screen1-768x437.png 768w" sizes="(max-width: 1013px) 100vw, 1013px" /><p id="caption-attachment-55562" class="wp-caption-text">The original Boulder Dash was marked out by some devious level design, which threatened to squash the player at every turn.</p></div>
+<h2>Boulder Dash</h2>
+<p>Boulder Dash first appeared in 1984 for the Commodore 64, Apple II, and the Atari 400/800. It featured an energetic gem collector called Rockford who, thanks to some rather low-resolution graphics, looked a bit like an alien. His mission was to tunnel his way through a series of caves to find gems while avoiding falling rocks dislodged by his digging. Deadly creatures also inhabited the caves which, if destroyed by dropping rocks on them, turned into gems for Rockford to collect.</p>
+<p>The ingenious level designs were what made Boulder Dash so addictive. Gems had to be collected within a time limit to unlock the exit, but some were positioned in places that would need planning to get to, often using the physics of falling boulders to block or clear areas. Of course, the puzzles got increasingly tough as the levels progressed.</p>
+<p>Written by Peter Liepa and Chris Gray, Boulder Dash was published by First Star Software, which still puts out new versions of the game to this day. Due to its original success, Boulder Dash was ported to all kinds of platforms, and the years since have seen no fewer than 20 new iterations of Boulder Dash, and a fair few clones, too.</p>
+<div id="attachment_55566" style="width: 826px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-55566" class="size-full wp-image-55566" src="https://www.raspberrypi.org/app/uploads/2020/01/Bolderdash1.png" alt="" width="816" height="640" srcset="https://www.raspberrypi.org/app/uploads/2020/01/Bolderdash1.png 816w, https://www.raspberrypi.org/app/uploads/2020/01/Bolderdash1-300x235.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/Bolderdash1-500x392.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/Bolderdash1-768x602.png 768w" sizes="(max-width: 816px) 100vw, 816px" /><p id="caption-attachment-55566" class="wp-caption-text">Our homage to Boulder Dash running in Pygame Zero. Dig through the caves to find gems – while avoiding death from above.</p></div>
+<h2>Making Boulder Dash in Python</h2>
+<p>We’re going to have a look at the boulder physics aspect of the game, and make a simple level where Rockford can dig out some gems and hopefully not get flattened under an avalanche of rocks. Writing our code in Pygame Zero, we’ll automatically create an 800 by 600-size window to work with. We can make our game screen by defining a two-dimensional list, which, in this case, we will fill with soil squares and randomly position the rocks and gems.</p>
+<p>Each location in the list matrix will have a name: either <code>wall</code> for the outside boundary, <code>soil</code> for the diggable stuff, <code>rock</code> for a round, moveable boulder, <code>gem</code> for a collectable item, and finally, <code>rockford</code> to symbolise our hero. We can also define an Actor for Rockford, as this will make things like switching images and tracking other properties easier.</p>
+<div id="attachment_55563" style="width: 1090px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-55563" class="size-full wp-image-55563" src="https://www.raspberrypi.org/app/uploads/2020/01/boulder-dash-code.png" alt="" width="1080" height="975" srcset="https://www.raspberrypi.org/app/uploads/2020/01/boulder-dash-code.png 1080w, https://www.raspberrypi.org/app/uploads/2020/01/boulder-dash-code-277x250.png 277w, https://www.raspberrypi.org/app/uploads/2020/01/boulder-dash-code-500x451.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/boulder-dash-code-768x693.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" /><p id="caption-attachment-55563" class="wp-caption-text">Here&#8217;s Mark&#8217;s code, which gets an homage to Boulder Dash running in Python. To get it working on your system, you&#8217;ll first need to <a href="http://wfmag.cc/pgzero">install Pygame Zero</a>. And to <a href="http://wfmag.cc/wfmag30">download the full code, go here.</a></p></div>
+<p>Our <code>draw()</code> function is just a nested loop to iterate through the list matrix and blit to the screen whatever is indicated in each square. The Rockford Actor is then drawn over the top. We can also keep a count of how many gems have been collected and provide a congratulatory message if all of them are found. In the <code>update()</code> function, there are only two things we really need to worry about: the first being to check for keypresses from the player and move Rockford accordingly, and the second to check rocks to see if they need to move.</p>
+<p>Rockford is quite easy to test for movement, as he can only move onto an empty square – a soil square or a gem square. It’s also possible for him to push a boulder if there’s an empty space on the other side. For the boulders, we need to first test if there’s an empty space below it, and if so, the boulder must move downwards. We also test to see if a boulder is on top of another boulder – if it is, the top boulder can roll off and down onto a space either to the left or the right of the one beneath.<br />
+There’s not much to add to this snippet of code to turn it into a playable game of Boulder Dash. See if you can add a timer, some monsters, and, of course, some puzzles for players to solve on each level.</p>
+<h2>Testing for movement</h2>
+<p>An important thing to notice about the process of scanning through the list matrix to test for boulder movement is that we need to read the list from the bottom upwards; otherwise, because the boulders move downwards, we may end up testing a boulder multiple times if we test from the beginning to the end of the list. Similarly, if we read the list matrix from the top down, we may end up moving a boulder down and then when reading the next row, coming across the same one again, and moving it a second time.</p>
+<h2>Get your copy of Wireframe issue 30</h2>
+<p><em>You can read more features like this one in <a href="http://wfmag.cc/issues">Wireframe issue 30</a>, available now at Tesco, WHSmith, all good independent UK newsagents, and the Raspberry Pi Store, Cambridge.</em></p>
+<p><em>Or you can buy Wireframe directly from Raspberry Pi Press — delivery is available worldwide. And if you’d like a handy digital version of the magazine, you can also <a href="https://wireframe.raspberrypi.org/issues/30">download issue 30 for free</a> in PDF format.</em></p>
+<p><img class="aligncenter size-full wp-image-55565" src="https://www.raspberrypi.org/app/uploads/2020/01/WF30_Cover-SMALL.jpg" alt="" width="800" height="1051" srcset="https://www.raspberrypi.org/app/uploads/2020/01/WF30_Cover-SMALL.jpg 800w, https://www.raspberrypi.org/app/uploads/2020/01/WF30_Cover-SMALL-190x250.jpg 190w, https://www.raspberrypi.org/app/uploads/2020/01/WF30_Cover-SMALL-500x657.jpg 500w, https://www.raspberrypi.org/app/uploads/2020/01/WF30_Cover-SMALL-768x1009.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p><em>Make sure to follow Wireframe on <a href="http://twitter.com/wireframemag">Twitter</a> and <a href="http://www.facebook.com/wireframemag">Facebook</a> for updates and exclusive offers and giveaways. Subscribe on the <a href="http://wfmag.cc/subscribe">Wireframe website</a> to save up to 49% compared to newsstand pricing!</em></p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/code-a-boulder-dash-mining-game-wireframe-30/">Code a Boulder Dash mining game | Wireframe #30</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://www.raspberrypi.org/blog/code-a-boulder-dash-mining-game-wireframe-30/feed/
+            </wfw:commentRss>
+            <slash:comments>1</slash:comments>
+        </item>
+        <item>
+            <title>Protect your veggies from hail with a Raspberry Pi Zero W</title>
+            <link>https://www.raspberrypi.org/blog/protect-your-veggies-from-hail-with-a-raspberry-pi-zero-w/</link>
+            <comments>
+                https://www.raspberrypi.org/blog/protect-your-veggies-from-hail-with-a-raspberry-pi-zero-w/#comments
+            </comments>
+            <pubDate>Wed, 15 Jan 2020 12:48:00 +0000</pubDate>
+            <dc:creator><![CDATA[Alex Bate]]></dc:creator>
+            <category><![CDATA[Your Projects]]></category>
+            <category><![CDATA[Raspberry Pi Zero/Zero W]]></category>
+            <category><![CDATA[automation]]></category>
+            <category><![CDATA[agriculture]]></category>
+            <category><![CDATA[garden]]></category>
+
+            <guid isPermaLink="false">https://www.raspberrypi.org/?p=55613</guid>
+            <description><![CDATA[<p>Tired of losing vegetable crops to frequent summertime hail storms, Nick Rogness decided to build something to protect them. And the result is brilliant! Digital Garden with hail protection Tired of getting your garden destroyed by hail storms? I was, so I did something about it&#8230;maker style! &#8220;I live in a part of the country [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/protect-your-veggies-from-hail-with-a-raspberry-pi-zero-w/">Protect your veggies from hail with a Raspberry Pi Zero W</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>Tired of losing vegetable crops to frequent summertime hail storms, Nick Rogness decided to build something to protect them. And the result is brilliant!</p>
+<blockquote class="embedly-card" data-card-controls="0" data-card-theme="light" data-card-key="25dbee0f6d6647cd915208cf783cf42d">
+<h4><a href="https://www.youtube.com/watch?v=bh8vibSecaQ">Digital Garden with hail protection</a></h4>
+<p>Tired of getting your garden destroyed by hail storms? I was, so I did something about it&#8230;maker style!</p>
+</blockquote>
+<p><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></p>
+<p>&#8220;I live in a part of the country where hail and severe weather are commonplace during the summer months,&#8221; Nick explains in his <a href="https://www.hackster.io/ndrogness/digital-garden-with-hail-protection-ed38af">Hackster tutorial</a>. &#8220;I was getting frustrated every year when my wife&#8217;s garden was get demolished by the nightly hail storms losing our entire haul of vegetable goodies!&#8221;</p>
+<p>Nick drew up plans for a solution to his hail problem, incorporating liner actuators bolted to a 12ft × 12ft frame that surrounds the vegetable patch. When a storm is on the horizon, the actuators pull a heavy-duty tarp over the garden.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/20190628_205359_OAcdjAE8WG.jpg"><img class="aligncenter size-full wp-image-55615" src="https://www.raspberrypi.org/app/uploads/2020/01/20190628_205359_OAcdjAE8WG.jpg" alt="" width="720" height="960" srcset="https://www.raspberrypi.org/app/uploads/2020/01/20190628_205359_OAcdjAE8WG.jpg 720w, https://www.raspberrypi.org/app/uploads/2020/01/20190628_205359_OAcdjAE8WG-188x250.jpg 188w, https://www.raspberrypi.org/app/uploads/2020/01/20190628_205359_OAcdjAE8WG-500x667.jpg 500w" sizes="(max-width: 720px) 100vw, 720px" /></a></p>
+<p>Nick connected two motor controllers to a Raspberry Pi Zero W. The Raspberry Pi then controls the actuators to pull the tarp, either when a manual rocker switch is flipped or when it&#8217;s told to do so via weather-controlled software.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/7b0502fe07f2c0bf9abc3e5aa97d7419b7989125-14_a5NenShJzV.jpg"><img class="aligncenter size-full wp-image-55617" src="https://www.raspberrypi.org/app/uploads/2020/01/7b0502fe07f2c0bf9abc3e5aa97d7419b7989125-14_a5NenShJzV.jpg" alt="" width="720" height="960" srcset="https://www.raspberrypi.org/app/uploads/2020/01/7b0502fe07f2c0bf9abc3e5aa97d7419b7989125-14_a5NenShJzV.jpg 720w, https://www.raspberrypi.org/app/uploads/2020/01/7b0502fe07f2c0bf9abc3e5aa97d7419b7989125-14_a5NenShJzV-188x250.jpg 188w, https://www.raspberrypi.org/app/uploads/2020/01/7b0502fe07f2c0bf9abc3e5aa97d7419b7989125-14_a5NenShJzV-500x667.jpg 500w" sizes="(max-width: 720px) 100vw, 720px" /></a></p>
+<p>&#8220;Software control of the garden was accomplished by using a Raspberry Pi and MQTT to communicate via Adafruit IO to reach the mobile app on my phone,&#8221; Nick explains. The whole build is powered by a 12V Marine deep-cycle battery that&#8217;s charged using a solar panel.</p>
+<p>You can view the full tutorial <a href="https://www.hackster.io/ndrogness/digital-garden-with-hail-protection-ed38af">on Hackster</a>, including the code for the project.</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/protect-your-veggies-from-hail-with-a-raspberry-pi-zero-w/">Protect your veggies from hail with a Raspberry Pi Zero W</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>
+                https://www.raspberrypi.org/blog/protect-your-veggies-from-hail-with-a-raspberry-pi-zero-w/feed/
+            </wfw:commentRss>
+            <slash:comments>3</slash:comments>
+        </item>
+        <item>
+            <title>Can algorithms be unethical?</title>
+            <link>https://www.raspberrypi.org/blog/can-algorithms-be-unethical/</link>
+            <comments>https://www.raspberrypi.org/blog/can-algorithms-be-unethical/#comments</comments>
+            <pubDate>Tue, 14 Jan 2020 12:24:35 +0000</pubDate>
+            <dc:creator><![CDATA[Mac Bowley]]></dc:creator>
+            <category><![CDATA[Education]]></category>
+            <category><![CDATA[Our Staff]]></category>
+            <category><![CDATA[algorithms]]></category>
+            <category><![CDATA[FutureLearn]]></category>
+            <category><![CDATA[ethics]]></category>
+            <category><![CDATA[impact of tech]]></category>
+
+            <guid isPermaLink="false">https://www.raspberrypi.org/?p=55583</guid>
+            <description><![CDATA[<p>At Raspberry Pi, we’re interested in all things to do with technology, from building new tools and helping people teach computing, to researching how young people learn to create with technology and thinking about the role tech plays in our lives and society. One of the aspects of technology I myself have been thinking about [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/can-algorithms-be-unethical/">Can algorithms be unethical?</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>At Raspberry Pi, we’re interested in all things to do with technology, from building new tools and helping people teach computing, to researching how young people learn to create with technology and thinking about the role tech plays in our lives and society. One of the aspects of technology I myself have been thinking about recently is algorithms.</p>
+<div id="attachment_55598" style="width: 510px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-55598" class="wp-image-55598 size-large" src="https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-1.4-AreasOfImpact-500x333.png" alt="An illustration of a desktop computer above which 5 icons are shown for privacy, culture, law, environment, and ethics" width="500" height="333" srcset="https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-1.4-AreasOfImpact-500x333.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-1.4-AreasOfImpact-300x200.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-1.4-AreasOfImpact-768x512.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-1.4-AreasOfImpact.png 900w" sizes="(max-width: 500px) 100vw, 500px" /><p id="caption-attachment-55598" class="wp-caption-text">Technology impacts our lives at the level of privacy, culture, law, environment, and ethics.</p></div>
+<p>All kinds of algorithms — set series of repeatable steps that computers follow to perform a task — are running in the background of our lives. Some we recognise and interact with every day, such as online search engines or navigation systems; others operate unseen and are rarely directly experienced. We let algorithms make decisions that impact our lives in both large and small ways. As such, I think we need to consider the ethics behind them.</p>
+<h2>We need to talk about ethics</h2>
+<p>Ethics are rules of conduct that are recognised as acceptable or good by society. It’s easier to discuss the ethics of a specific algorithm than to talk about ethics of algorithms as a whole. Nevertheless, it is important that we have these conversations, especially because people often see computers as ‘magic boxes’: you push a button and something magically comes out of the box, without any possibility of human influence over what that output is. This view puts power solely in the hands of the creators of the computing technology you’re using, and it isn’t guaranteed that these people have your best interests at heart or are motivated to behave ethically when designing the technology.</p>
+<div id="attachment_55586" style="width: 260px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-55586" class="wp-image-55586 size-medium" src="https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-2.2-Research-stakeholders-250x250.png" alt="An icon with the word 'stakeholders' below it" width="250" height="250" srcset="https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-2.2-Research-stakeholders-250x250.png 250w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-2.2-Research-stakeholders-500x500.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-2.2-Research-stakeholders-150x150.png 150w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-2.2-Research-stakeholders-768x768.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-2.2-Research-stakeholders.png 900w" sizes="(max-width: 250px) 100vw, 250px" /><p id="caption-attachment-55586" class="wp-caption-text">Who creates the algorithms you use, and what are their motivations?</p></div>
+<p>You should be critical of the output algorithms deliver to you, and if you have questions about possible flaws in an algorithm, you should not discount these as mere worries. Such questions could include:</p>
+<ul>
+<li>Algorithms that make decisions have to use data to inform their choices. Are the data sets they use to make these decisions ethical and reliable?</li>
+<li>Running an algorithm time and time again means applying the same approach time and time again. When dealing with societal problems, is there a single approach that will work successfully every time?</li>
+</ul>
+<p>Below, I give two concrete examples to show where ethics come into the creation and use of algorithms. If you know other examples (or counter-examples, feel free to disagree with me), please share them in the comments.</p>
+<h2>Algorithms can be biased</h2>
+<p>Part of the ‘magic box’ mental model is the idea that computers are cold instructions followers that cannot think for themselves — so how can they be biased?</p>
+<p>Humans aren&#8217;t born biased: we learn biases alongside everything else, as we watch the way our family and other people close to us interact with the world. Algorithms acquire biases in the same way: the developers who create them might inadvertently add their own biases.</p>
+<div id="attachment_55585" style="width: 510px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-55585" class="wp-image-55585 size-large" src="https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-1.4-stakeholders-500x295.png" alt="An illustration of four people using smartphones" width="500" height="295" srcset="https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-1.4-stakeholders-500x295.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-1.4-stakeholders-300x177.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-1.4-stakeholders-768x453.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-1.4-stakeholders.png 900w" sizes="(max-width: 500px) 100vw, 500px" /><p id="caption-attachment-55585" class="wp-caption-text">Humans can be biased, and therefore the algorithms they create can be biased too.</p></div>
+<p>An example of this is a gang violence data analysis tool that the Met Police in London launched in 2012. Called the gang matrix, the tool held the personal information of over 300 individuals. 72% of the individuals on the matrix were non-white, and some had never committed a violent crime. In response to this, Amnesty International filed a complaint stating that the makeup of the gang matrix was influenced by police officers disproportionately labelling crimes committed by non-white individuals as gang-related.</p>
+<h2>Who curates the content we consume?</h2>
+<p>We live in a content-rich society: there is much, much more online content than one person could possibly take in. Almost every piece of content we consume is selected by algorithms; the music you listen to, the videos you watch, the articles you read, and even the products you buy.</p>
+<p><img class="aligncenter wp-image-55590 size-large" src="https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpTech-1.5-SM-newsPoll-500x281.png" alt="An illustration of a phone screen showing an invented tweet asking where people get their news from" width="500" height="281" srcset="https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpTech-1.5-SM-newsPoll-500x281.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpTech-1.5-SM-newsPoll-300x169.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpTech-1.5-SM-newsPoll-768x432.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpTech-1.5-SM-newsPoll-1536x864.png 1536w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpTech-1.5-SM-newsPoll.png 1920w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Some of you may have experienced a week in January of 2012 in which you saw a lot of either cute kittens or sad images on Facebook; if so, you may have been involved in a global social experiment that Facebook engineers performed on 600,000 of its users without their consent. Some of these users were shown overwhelmingly positive content, and others overwhelmingly negative content. The Facebook engineers monitored the users’ actions to gage how they responded. Was this experiment ethical?</p>
+<p>In order to select content that is attractive to you, content algorithms observe the choices you make and the content you consume. The most effective algorithms give you more of the same content, with slight variation. How does this impact our beliefs and views? How do we broaden our horizons?</p>
+<h2>Why trust algorithms at all then?</h2>
+<p>People generally don’t like making decisions; almost everyone knows the discomfort of indecision. In addition, emotions have a huge effect on the decisions humans make moment to moment. Algorithms on the other hand aren’t impacted by emotions, and they can&#8217;t be indecisive.</p>
+<p>While algorithms are not immune to bias, in general they are way less susceptible to it than humans. And if a bias is identified in an algorithm, an engineer can remove the bias by editing the algorithm or changing the dataset the algorithm uses. The same cannot be said for human biases, which are often deeply ingrained and widespread in society.</p>
+<div id="attachment_55591" style="width: 260px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-55591" class="wp-image-55591 size-medium" src="https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-2.2-Research-technology-250x250.png" alt="An icon showing a phone screen with an internet browser symbol" width="250" height="250" srcset="https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-2.2-Research-technology-250x250.png 250w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-2.2-Research-technology-500x500.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-2.2-Research-technology-150x150.png 150w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-2.2-Research-technology-768x768.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/FL-ImpactOfTech-2.2-Research-technology.png 900w" sizes="(max-width: 250px) 100vw, 250px" /><p id="caption-attachment-55591" class="wp-caption-text">As is true for all technology, algorithms can create new problems as well as solve existing problems.</p></div>
+<p>That’s why there are more and less appropriate areas for algorithms to operate in. For example, using algorithms in policing is almost always a bad idea, as the data involved is recorded by humans and is very subjective. In objective, data-driven fields, on the other hand, algorithms have been employed very successfully, such as diagnostic algorithms in medicine.</p>
+<h2>Algorithms in your life</h2>
+<p>I would love to hear what you think: this conversation requires as many views as possible to be productive. Share your thoughts on the topic in the comments! Here are some more questions to get you thinking:</p>
+<ul>
+<li>What algorithms do you interact with every day?</li>
+<li>How large are the decisions you allow algorithms to make?</li>
+<li>Are there algorithms you absolutely do <strong>not</strong> trust?</li>
+<li>What do you think would happen if we let algorithms decide everything?</li>
+</ul>
+<p>Feel free to respond to other people’s comments and discuss the points they raise.</p>
+<p>The ethics of algorithms is one of the topics for which we offer you a discussion forum on <a href="https://www.futurelearn.com/invitations/ncce/impact-of-technology/02ilq05yqln3qn5dxoxq7g9ilnynoqx?utm_source=jan20_blog_ethics&amp;utm_medium=rpi_blog&amp;utm_campaign=jan2020ethicsblog">our free online course <em>Impact of Technology</em></a>. The course also covers how to facilitate classroom discussions about technology — if you’re an educator teaching computing or computer science, it is a great resource for you!</p>
+<p>The <em> Impact of Technology</em> online course is one of many courses developed by us with support from Google.</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/can-algorithms-be-unethical/">Can algorithms be unethical?</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://www.raspberrypi.org/blog/can-algorithms-be-unethical/feed/</wfw:commentRss>
+            <slash:comments>18</slash:comments>
+        </item>
+        <item>
+            <title>How to control multiple servo motors with Raspberry Pi</title>
+            <link>https://www.raspberrypi.org/blog/how-to-control-multiple-servo-motors-with-raspberry-pi/</link>
+            <comments>https://www.raspberrypi.org/blog/how-to-control-multiple-servo-motors-with-raspberry-pi/#respond
+            </comments>
+            <pubDate>Mon, 13 Jan 2020 13:59:25 +0000</pubDate>
+            <dc:creator><![CDATA[Alex Bate]]></dc:creator>
+            <category><![CDATA[Your Projects]]></category>
+            <category><![CDATA[YouTubers]]></category>
+            <category><![CDATA[tutorial]]></category>
+            <category><![CDATA[servo]]></category>
+            <category><![CDATA[explaining computers]]></category>
+
+            <guid isPermaLink="false">https://www.raspberrypi.org/?p=55569</guid>
+            <description><![CDATA[<p>In the latest Explaining Computers video, Christopher Barnatt explains how to use servo motors with Raspberry Pi. Using servos is a great introduction to the digital making side of computing; servos allow you to control the movement of all manner of project components with your Raspberry Pi and a motor controller attached to its GPIO [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/how-to-control-multiple-servo-motors-with-raspberry-pi/">How to control multiple servo motors with Raspberry Pi</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>In the latest Explaining Computers video, Christopher Barnatt explains how to use servo motors with Raspberry Pi. Using servos is a great introduction to the digital making side of computing; servos allow you to control the movement of all manner of project components with your Raspberry Pi and a motor controller attached to its GPIO pins.</p>
+<blockquote class="embedly-card" data-card-controls="0" data-card-theme="light" data-card-key="25dbee0f6d6647cd915208cf783cf42d">
+<h4><a href="https://www.youtube.com/watch?v=xHDT4CwjUQE">Raspberry Pi Servo Motor Control</a></h4>
+<p>Control of SG90 servos in Python on a Raspberry Pi, including an explanation of PWM and how a servo differs from a motor. You can download the code from the video at: https://www.explainingcomputers.com/pi_servos_video.html The five-pack of SG90 servos used in this video was purchased on Amazon.co.uk here: https://www.amazon.co.uk/dp/B07H9VC698/ref=nosim?tag=explainin-21 with a similar product on Amazon.com here: https://amzn.to/2QHshx3 (affiliate links).</p>
+</blockquote>
+<p><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></p>
+<h2>Servos and your Raspberry Pi</h2>
+<p>Christopher picked up his SG90 servo motors online, where you&#8217;ll find a variety of servo options. What type of servo you need depends on the project you want to create, so be sure to consider the weight and size of what you plan to move, and the speed at which you need to move it.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-13-at-11.07.44-scaled.png"><img class="aligncenter size-full wp-image-55575" src="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-13-at-11.07.44-scaled.png" alt="" width="2048" height="1119" srcset="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-13-at-11.07.44-scaled.png 2048w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-13-at-11.07.44-300x164.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-13-at-11.07.44-500x273.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-13-at-11.07.44-768x419.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-13-at-11.07.44-1536x839.png 1536w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-13-at-11.07.44-1920x1049.png 1920w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<p>As the motor controller connects via GPIO, you can even use the tiny £5 <a href="https://www.raspberrypi.org/products/raspberry-pi-zero/">Raspberry Pi Zero</a> to control your servo, which makes adding movement to your projects an option even when you&#8217;re under tight space constraints.</p>
+<h2>Find out more</h2>
+<p>For other detailed computing videos, be sure to subscribe to <a href="https://www.youtube.com/channel/UCbiGcwDWZjz05njNPrJU7jA">the Explaining Computers</a> YouTube channel.</p>
+<p>And for more Raspberry Pi projects, check out <a href="https://projects.raspberrypi.org/en/">the Raspberry Pi projects page</a>.</p>
+<h2>Raspberry Pi projects PSA</h2>
+<p>We&#8217;re always looking for people to join our incredible community of translators to help us translate our free resources, including the free projects found on our projects page.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/project-example.png"><img class="aligncenter size-full wp-image-55572" src="https://www.raspberrypi.org/app/uploads/2020/01/project-example.png" alt="" width="896" height="750" srcset="https://www.raspberrypi.org/app/uploads/2020/01/project-example.png 896w, https://www.raspberrypi.org/app/uploads/2020/01/project-example-300x250.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/project-example-500x419.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/project-example-768x643.png 768w" sizes="(max-width: 896px) 100vw, 896px" /></a></p>
+<p>If you speak English and another language and would like to give a portion of your time to making our resources available to more people across the globe, <a href="https://projects.raspberrypi.org/en/projects/translating-for-raspberry-pi">sign up as a translator today</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/how-to-control-multiple-servo-motors-with-raspberry-pi/">How to control multiple servo motors with Raspberry Pi</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>
+                https://www.raspberrypi.org/blog/how-to-control-multiple-servo-motors-with-raspberry-pi/feed/
+            </wfw:commentRss>
+            <slash:comments>0</slash:comments>
+        </item>
+        <item>
+            <title>Playing The Doors with a door (and a Raspberry Pi)</title>
+            <link>https://www.raspberrypi.org/blog/playing-the-doors-with-a-door-and-a-raspberry-pi/</link>
+            <comments>https://www.raspberrypi.org/blog/playing-the-doors-with-a-door-and-a-raspberry-pi/#comments
+            </comments>
+            <pubDate>Fri, 10 Jan 2020 12:18:29 +0000</pubDate>
+            <dc:creator><![CDATA[Alex Bate]]></dc:creator>
+            <category><![CDATA[Your Projects]]></category>
+            <category><![CDATA[Raspberry Pi 3B+]]></category>
+            <category><![CDATA[music]]></category>
+            <category><![CDATA[MIDI]]></category>
+
+            <guid isPermaLink="false">https://www.raspberrypi.org/?p=55537</guid>
+            <description><![CDATA[<p>Floyd Steinberg is back with more synthy Raspberry Pi musical magic, this time turning a door into a MIDI controller. I played The Doors on a door &#8211; using a Raspberry PI DIY midi controller and a Yamaha EX5 You see that door? You secretly want that to be a MIDI controller? Here&#8217;s how to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/playing-the-doors-with-a-door-and-a-raspberry-pi/">Playing The Doors with a door (and a Raspberry Pi)</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>Floyd Steinberg is back with more <a href="https://www.raspberrypi.org/blog/virtual-analogue-synthesiser/">synthy Raspberry Pi musical magic</a>, this time turning a door into a MIDI controller.</p>
+<blockquote class="embedly-card" data-card-controls="0" data-card-theme="light" data-card-key="25dbee0f6d6647cd915208cf783cf42d">
+<h4><a href="https://www.youtube.com/watch?v=0iBS3sli2-I">I played The Doors on a door &#8211; using a Raspberry PI DIY midi controller and a Yamaha EX5</a></h4>
+<p>You see that door? You secretly want that to be a MIDI controller? Here&#8217;s how to do it, and how to play a cover version of &#8220;Break On Through&#8221; by The Doors on a door ;-) Link to source code and the DIY kit below.</p>
+</blockquote>
+<p><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></p>
+<p>If you don&#8217;t live in a home with squeaky doors — living room door, I&#8217;m looking at you — you probably never think about the musical potential of mundane household objects.</p>
+<p>Unless you&#8217;re these two, I guess:</p>
+<blockquote class="embedly-card" data-card-controls="0" data-card-theme="light" data-card-key="25dbee0f6d6647cd915208cf783cf42d">
+<h4><a href="https://www.youtube.com/watch?v=CgHW02YF50s">When Mama Isn&#8217;t Home / When Mom Isn&#8217;t Home ORIGINAL (the Oven Kid) Timmy Trumpet &#8211; Freaks</a></h4>
+<p>We thought this was hilarious. Hope you enjoy! This video has over 60 million views worldwide! Social Media: @jessconte To use this video in a commercial player, advertising or in broadcasts, please email kyle@scalemanagement.co</p>
+</blockquote>
+<p><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></p>
+<p>If the sound of a slammed oven door isn&#8217;t involved in your ditty of choice, you may instead want to add some electronics to that sweet, sweet harmony maker, just like Floyd.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.52.29-scaled.png"><img class="aligncenter size-full wp-image-55543" src="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.52.29-scaled.png" alt="" width="2048" height="1169" srcset="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.52.29-scaled.png 2048w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.52.29-300x171.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.52.29-500x285.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.52.29-768x438.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.52.29-1536x877.png 1536w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.52.29-1892x1080.png 1892w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<p>Trusting in the melodic possibilities of incorporating a <a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/">Raspberry Pi 3B+</a> and various sensory components into a humble door, Floyd created The Doors Door, a musical door that plays&#8230; well, I&#8217;m sure you can guess.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.53.25-scaled.png"><img class="aligncenter size-full wp-image-55544" src="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.53.25-scaled.png" alt="" width="2048" height="1106" srcset="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.53.25-scaled.png 2048w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.53.25-300x162.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.53.25-500x270.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.53.25-768x415.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.53.25-1536x829.png 1536w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-10-at-10.53.25-1920x1037.png 1920w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<p>If you want to build your own, you can practice some sophisticated &#8216;copy and paste&#8217; programming after <a href="https://onedrive.live.com/?authkey=%21ALPY%2DEP76EqDAeo&amp;id=5CC3FF9DB18D3AED%21797631&amp;cid=5CC3FF9DB18D3AED">downloading the code</a>. And for links to all the kit you need, check out <a href="https://www.youtube.com/watch?v=0iBS3sli2-I">the description of the video over on YouTube</a>. While you&#8217;re there, be sure to give the video a like, and subscribe to Floyd&#8217;s channel.</p>
+<p>And now, to get you pumped for the weekend, here&#8217;s Jim:</p>
+<blockquote class="embedly-card" data-card-controls="0" data-card-theme="light" data-card-key="25dbee0f6d6647cd915208cf783cf42d">
+<h4><a href="https://www.youtube.com/watch?v=rOpQjD-rX0g">The Doors &#8211; Break On Through HQ (1967)</a></h4>
+<p>recorded fall 1966 &#8211; lyrics: You know the day destroys the night Night divides the day Tried to run Tried to hide Break on through to the other side Break on through to the other side Break on through to the other side, yeah We chased our pleasures here Dug our treasures there But can you still recall The time we cried Break on through to the other side Break on through to the other side Yeah!</p>
+</blockquote>
+<p><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/playing-the-doors-with-a-door-and-a-raspberry-pi/">Playing The Doors with a door (and a Raspberry Pi)</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://www.raspberrypi.org/blog/playing-the-doors-with-a-door-and-a-raspberry-pi/feed/
+            </wfw:commentRss>
+            <slash:comments>2</slash:comments>
+        </item>
+        <item>
+            <title>Come to our free educator sessions next to Bett 2020</title>
+            <link>https://www.raspberrypi.org/blog/free-educator-sessions-bett-show-2020/</link>
+            <comments>https://www.raspberrypi.org/blog/free-educator-sessions-bett-show-2020/#respond</comments>
+            <pubDate>Thu, 09 Jan 2020 09:43:44 +0000</pubDate>
+            <dc:creator><![CDATA[Tom Evans]]></dc:creator>
+            <category><![CDATA[Education]]></category>
+            <category><![CDATA[Events]]></category>
+            <category><![CDATA[education]]></category>
+            <category><![CDATA[BETT]]></category>
+            <category><![CDATA[physical computing]]></category>
+            <category><![CDATA[Bett Show]]></category>
+
+            <guid isPermaLink="false">https://www.raspberrypi.org/?p=55470</guid>
+            <description><![CDATA[<p>Are you attending Bett Show this year? Then come to our free educator sessions on Friday 24 January right next to Bett to take a break from the hustle and bustle of the show floor and learn something new! Our team will be in a private room below the Fox@ExCel pub, next door to Bett, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/free-educator-sessions-bett-show-2020/">Come to our free educator sessions next to Bett 2020</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>Are you attending Bett Show this year? Then come to our <strong>free educator sessions</strong> <strong>on Friday 24 January</strong> right next to Bett to take a break from the hustle and bustle of the show floor and learn something new!</p>
+<p>Our team will be in a private room below the <a href="http://www.foxbars.com/foxexcel/excel-bars/">Fox@ExCel</a> pub, next door to Bett, all day on Friday 24 January. We&#8217;ll be offering free physical computing sessions for primary and secondary educators during the day. Then from 17:30, you can drop in to chat to us about computing in your classroom, and to connect with like-minded educators.</p>
+<p><img class="aligncenter wp-image-27482 size-large" src="https://www.raspberrypi.org/app/uploads/2016/12/mg_8052jpg_28990357925_o-500x333.jpg" alt="A teacher attending a physical computing sessions laughs as she works through an activity" width="500" height="333" srcset="https://www.raspberrypi.org/app/uploads/2016/12/mg_8052jpg_28990357925_o-500x333.jpg 500w, https://www.raspberrypi.org/app/uploads/2016/12/mg_8052jpg_28990357925_o-300x200.jpg 300w, https://www.raspberrypi.org/app/uploads/2016/12/mg_8052jpg_28990357925_o-768x512.jpg 768w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<h2>Our schedule for you on 24 January</h2>
+<p><strong>11:00–12:30</strong>: Physical computing session for <strong>primary teachers</strong> (limited spaces, <a href="https://www.eventbrite.co.uk/e/physical-computing-for-primary-teachers-with-the-raspberry-pi-foundation-tickets-86332913067">please register to attend</a>)</p>
+<p><strong>12:45–13:30</strong>: Panel and Q&amp;A for <strong>primary teachers</strong>: Code Club and the National Centre of Computing Education (drop in without registering)</p>
+<p><strong>14:30–16:00</strong>: Physical computing session for <strong>secondary teachers</strong> (limited spaces, <a href="https://www.eventbrite.co.uk/e/physical-computing-for-secondary-teachers-with-the-raspberry-pi-foundation-tickets-86335171823">please register to attend</a>)</p>
+<p><strong>16:15–17:00</strong>: Panel and Q&amp;A for <strong>secondary teachers</strong>: Code Club and the National Centre of Computing Education (drop in without registering)</p>
+<p><strong>17:30–21:00</strong>: Informal meet and greet with the Raspberry Pi team <strong>for everyone</strong> (drop in without registering)</p>
+<ul>
+<li>Snacks and refreshments will be provided at all the sessions</li>
+<li>Directions to the Fox@ExCel pub, where you&#8217;ll find us, are below</li>
+<li>You don’t need to have a pass to Bett Show to attend any of our sessions</li>
+</ul>
+<p><img class="aligncenter wp-image-7380 size-large" src="https://www.raspberrypi.org/app/uploads/2014/05/Screen-Shot-2014-05-08-at-12.51.50-500x317.png" alt="" width="500" height="317" srcset="https://www.raspberrypi.org/app/uploads/2014/05/Screen-Shot-2014-05-08-at-12.51.50-500x317.png 500w, https://www.raspberrypi.org/app/uploads/2014/05/Screen-Shot-2014-05-08-at-12.51.50-300x190.png 300w, https://www.raspberrypi.org/app/uploads/2014/05/Screen-Shot-2014-05-08-at-12.51.50.png 914w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<h2>What are these physical computing sessions?</h2>
+<p>In these free, registration-only, practical sessions (tailored to primary and secondary educators, respectively), we’ll highlight the value of delivering curriculum objectives through physical computing activities.</p>
+<p>You&#8217;ll learn about:</p>
+<ul>
+<li>Setting up a Raspberry Pi computer</li>
+<li>Controlling LEDs using Scratch, Python, and Raspberry Pi</li>
+<li>Pedagogical approaches such as pair programming and Parson’s Puzzles</li>
+</ul>
+<p><img class="aligncenter wp-image-55024 size-large" src="https://www.raspberrypi.org/app/uploads/2019/12/770A9619-500x333.jpg" alt="Women using Raspberry Pi and Trinket" width="500" height="333" srcset="https://www.raspberrypi.org/app/uploads/2019/12/770A9619-500x333.jpg 500w, https://www.raspberrypi.org/app/uploads/2019/12/770A9619-300x200.jpg 300w, https://www.raspberrypi.org/app/uploads/2019/12/770A9619-768x512.jpg 768w, https://www.raspberrypi.org/app/uploads/2019/12/770A9619-1620x1080.jpg 1620w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>The sessions are perfect for you if you’d like an introduction to how to bring physical computing to your classroom, because <strong>no experience of physical computing is needed</strong>.</p>
+<p>Both sessions are <strong>free and open to all teachers and educators</strong> working with learners in the relevant Key Stages.</p>
+<p><strong>Spaces are limited for both sessions</strong>, so make sure you register to reserve your space:</p>
+<ul>
+<li><a href="https://www.eventbrite.co.uk/e/physical-computing-for-primary-teachers-with-the-raspberry-pi-foundation-tickets-86332913067">Register for the session for <strong>primary</strong> teachers</a></li>
+<li><a href="https://www.eventbrite.co.uk/e/physical-computing-for-secondary-teachers-with-the-raspberry-pi-foundation-tickets-86335171823">Register for the session for <strong>secondary</strong> teachers </a></li>
+</ul>
+<h2>Find out how to bring more computing opportunities to your school</h2>
+<p>Following each of the physical computing sessions, you’ll have the chance to find out how else we can help you bring computing to your school! During a <strong>45-minute panel and Q&amp;A</strong>, our team will introduce you all things <a href="https://codeclub.org/en/">Code Club</a> and how to set up an engaging coding club in your school, and to the comprehensive, free support we offer you through the <a href="https://teachcomputing.org/">National Centre of Computing Education</a>. You’ll also be able to ask us any questions you have about the programmes and resources we offer to you.</p>
+<p><img class="aligncenter wp-image-40525 size-large" src="https://www.raspberrypi.org/app/uploads/2018/01/Picademy-Providence-2017-1-500x317.jpg" alt="" width="500" height="317" srcset="https://www.raspberrypi.org/app/uploads/2018/01/Picademy-Providence-2017-1-500x317.jpg 500w, https://www.raspberrypi.org/app/uploads/2018/01/Picademy-Providence-2017-1-300x190.jpg 300w, https://www.raspberrypi.org/app/uploads/2018/01/Picademy-Providence-2017-1-768x487.jpg 768w, https://www.raspberrypi.org/app/uploads/2018/01/Picademy-Providence-2017-1-1702x1080.jpg 1702w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>There is no need to register for this &#8216;panel and Q&amp;A&#8217; part of the day — just drop in when it suits you.</p>
+<h2>Network with us and other educators</h2>
+<p>Your evening at Fox@ExCel, <strong>from 17:30 onwards</strong>, will be an informal meet and greet with the Raspberry Pi team. Snacks and refreshments will be provided, and you can drop in whenever you like.</p>
+<p>This is your time to chat to us, discover more about the other educational activities we run, and network with other primary and secondary educators who want to encourage children and young adults to get hands-on with computing.</p>
+<p><img class="aligncenter wp-image-28200 size-large" src="https://www.raspberrypi.org/app/uploads/2017/01/meetup_1-500x300.jpg" alt="Code Club" width="500" height="300" srcset="https://www.raspberrypi.org/app/uploads/2017/01/meetup_1-500x300.jpg 500w, https://www.raspberrypi.org/app/uploads/2017/01/meetup_1-300x180.jpg 300w, https://www.raspberrypi.org/app/uploads/2017/01/meetup_1.jpg 600w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>We hope to see many of you there, and we&#8217;re looking forward to chatting with you!</p>
+<p>If you have any questions about this event, or want to find out more, please contact <a href="mailto:events@raspberrypi.org">events@raspberrypi.org</a> and we will get back to you!</p>
+<h2>How to find us</h2>
+<p>The Fox@ExCel is a pub located in Warehouse K next to the ExCel Center, easily accessed from the footpath between the ExCel West Entrance and Custom House DLR Station.</p>
+<p><img class="size-full wp-image-55480 aligncenter" src="https://www.raspberrypi.org/app/uploads/2020/01/FoxExCelUPDATED.jpg" alt="Map of where the Fox@ExCel London is" width="748" height="481" srcset="https://www.raspberrypi.org/app/uploads/2020/01/FoxExCelUPDATED.jpg 748w, https://www.raspberrypi.org/app/uploads/2020/01/FoxExCelUPDATED-300x193.jpg 300w, https://www.raspberrypi.org/app/uploads/2020/01/FoxExCelUPDATED-500x322.jpg 500w" sizes="(max-width: 748px) 100vw, 748px" /></p>
+<p><strong>You will find us in a private area below the main floor of the Fox@ExCel</strong>. There should be a sign directing you to the location, and you can also ask the pub staff to point the way.</p>
+<p><strong>From Custom House DLR Station:</strong></p>
+<p>Follow the signs along the footbridge towards the ExCel main entrance, enter the door labelled ‘Fox@ExCel’ on the first building to your right, and head down the stairs.</p>
+<p><strong>From the ExCel West Entrance:</strong></p>
+<p>Turn right out of the main entrance and follow the footbridge towards the ExCel. You will find the entrance to the Fox@ExCel in the second pair of doorways on your left. Enter the building and go down the stairs.</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/free-educator-sessions-bett-show-2020/">Come to our free educator sessions next to Bett 2020</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://www.raspberrypi.org/blog/free-educator-sessions-bett-show-2020/feed/
+            </wfw:commentRss>
+            <slash:comments>0</slash:comments>
+        </item>
+        <item>
+            <title>Design 3D prints with a Raspberry Pi and BlocksCAD</title>
+            <link>https://www.raspberrypi.org/blog/design-3d-prints-with-a-raspberry-pi-and-blockscad/</link>
+            <comments>https://www.raspberrypi.org/blog/design-3d-prints-with-a-raspberry-pi-and-blockscad/#comments
+            </comments>
+            <pubDate>Wed, 08 Jan 2020 15:20:02 +0000</pubDate>
+            <dc:creator><![CDATA[Alex Bate]]></dc:creator>
+            <category><![CDATA[The MagPi]]></category>
+            <category><![CDATA[Raspberry Pi Resources]]></category>
+            <category><![CDATA[3D printing]]></category>
+            <category><![CDATA[blockscad]]></category>
+
+            <guid isPermaLink="false">https://www.raspberrypi.org/?p=55455</guid>
+            <description><![CDATA[<p>BlocksCAD is a 3D model editor that you use in a web browser, and it runs on Raspberry Pi. You drag and drop code blocks to design 3D models that can be exported for 3D printing. In this project, you will use BlocksCAD to design a 3D pendant. The pendant uses a geometric pattern based [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/design-3d-prints-with-a-raspberry-pi-and-blockscad/">Design 3D prints with a Raspberry Pi and BlocksCAD</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>BlocksCAD is a 3D model editor that you use in a web browser, and it runs on Raspberry Pi. You drag and drop code blocks to design 3D models that can be exported for 3D printing.</p>
+<p>In this project, you will use BlocksCAD to design a 3D pendant. The pendant uses a geometric pattern based on &#8216;the flower of life&#8217;, a design which is often found in historical art.</p>
+<div id="attachment_55473" style="width: 1324px" class="wp-caption aligncenter"><a href="https://www.raspberrypi.org/app/uploads/2020/01/pendant-printed.png"><img aria-describedby="caption-attachment-55473" class="wp-image-55473 size-full" src="https://www.raspberrypi.org/app/uploads/2020/01/pendant-printed.png" alt="" width="1314" height="644" srcset="https://www.raspberrypi.org/app/uploads/2020/01/pendant-printed.png 1314w, https://www.raspberrypi.org/app/uploads/2020/01/pendant-printed-300x147.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/pendant-printed-500x245.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/pendant-printed-768x376.png 768w" sizes="(max-width: 1314px) 100vw, 1314px" /></a><p id="caption-attachment-55473" class="wp-caption-text">The finished pendant with a cord threaded through the small hanging hoop</p></div>
+<p>If you have access to a 3D printer, then you can print your pendant. The pendant is small and only uses a little bit of filament. There&#8217;s a hoop on top of the pendant so that you can put it on a necklace or cord. The pendant has a diameter of 40 mm, plus the hoop for hanging. It is 2 mm thick, so it will 3D-print quite quickly.</p>
+<p>After this project, you&#8217;ll also be able to code your own design and create a custom pendant.</p>
+<h2>Step 01: create a hoop</h2>
+<p>This project can be completed in a web browser using <a href="http://blockscad3d.com">BlocksCAD</a>. Open Chromium and enter the BlocksCAD editor URL: blockscad3d.com/editor.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-08-at-10.38.40-scaled.png"><img class="aligncenter size-full wp-image-55477" src="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-08-at-10.38.40-scaled.png" alt="" width="2048" height="1087" srcset="https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-08-at-10.38.40-scaled.png 2048w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-08-at-10.38.40-300x159.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-08-at-10.38.40-500x265.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-08-at-10.38.40-768x407.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-08-at-10.38.40-1536x815.png 1536w, https://www.raspberrypi.org/app/uploads/2020/01/Screenshot-2020-01-08-at-10.38.40-1920x1019.png 1920w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<p>The design uses six interlocking hoops in the centre, and a larger hoop around the outside. As mentioned, the pendant is 40 mm wide, plus the hoop for hanging, which is 2 mm thick.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/pendant-finished.png"><img class="aligncenter size-full wp-image-55468" src="https://www.raspberrypi.org/app/uploads/2020/01/pendant-finished.png" alt="" width="366" height="345" srcset="https://www.raspberrypi.org/app/uploads/2020/01/pendant-finished.png 366w, https://www.raspberrypi.org/app/uploads/2020/01/pendant-finished-265x250.png 265w" sizes="(max-width: 366px) 100vw, 366px" /></a></p>
+<p>Click 3D Shapes and drag a cylinder block to the project. Create a cylinder with a radius of 12, and a height of 2 (the unit here is millimetres). Cylinders are automatically centred along the X and Y axes. Select <em>not centered</em> so that the pendant sits on the surface. (This means that the Z-axis value is greater than 0.)</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/pendant-translate.png"><img class="aligncenter wp-image-55475 size-full" src="https://www.raspberrypi.org/app/uploads/2020/01/pendant-translate.png" alt="" width="1290" height="289" srcset="https://www.raspberrypi.org/app/uploads/2020/01/pendant-translate.png 1290w, https://www.raspberrypi.org/app/uploads/2020/01/pendant-translate-300x67.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/pendant-translate-500x112.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/pendant-translate-768x172.png 768w" sizes="(max-width: 1290px) 100vw, 1290px" /></a></p>
+<p>Click on the <strong>Render</strong> button after each change to your code to see the results.</p>
+<h2>Step 02: add more hoops</h2>
+<p>Now, drag a difference block from Set Ops to encase the cylinder. Add another cylinder block in the bottom space, and this time give it a radius of 11 mm. This will remove a smaller cylinder from the centre. This creates a hoop. Click Render again to see it.</p>
+<p>If you like, you can click on the coloured square to change the colour used in the viewer. This does not affect the colour of your pendant, as that depends on the colour of the filament that you use.</p>
+<p>The design uses six intersecting hoops, and each hoop is moved out from the centre and rotated a different number of degrees.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/BlocksCad-Anno.png"><img class="aligncenter size-full wp-image-55458" src="https://www.raspberrypi.org/app/uploads/2020/01/BlocksCad-Anno.png" alt="" width="1920" height="1080" srcset="https://www.raspberrypi.org/app/uploads/2020/01/BlocksCad-Anno.png 1920w, https://www.raspberrypi.org/app/uploads/2020/01/BlocksCad-Anno-300x169.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/BlocksCad-Anno-500x281.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/BlocksCad-Anno-768x432.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/BlocksCad-Anno-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></a></p>
+<p>In the final design, there is no central hoop: the hoops are all moved out from the centre.</p>
+<p>Drag a translate block (from <strong>Transforms</strong>) around your code, and set X and Y to 5. This moves the first hoop into position.</p>
+<h2>Step 03: centre the hoop</h2>
+<p>Now the hoop is a little off-centre. You need multiple copies of this hoop, rotated around the centre. First, create three equally spaced hoops.</p>
+<p>Add a count Loops block to create three hoops. To space the hoops, add a rotate Transforms block between the count loop and the translate block.</p>
+<p>In the count block, set the i variable from 1 to 3. You&#8217;ll need to insert an arithmetic block from Math and a variable (i) block from Variables into the Z field of the rotate block.</p>
+<p>The rotation moves each hoop by 120 × i degrees, so that the three hoops are distributed equally around the 360 degrees of a circle (360 / 3 = 120). Look at the code and make sure you understand how it works. The finished design has six hoops rather than three. In the count block, set i from 1 to 6, and set the Z rotation to 60, so it creates six equally spaced hoops.</p>
+<h2>Step 04: add a border</h2>
+<p>Next, add a border around the edge of the design. Create a centred hoop that touches the edges of the design. You can either do the maths to work out what the radius of the circle needs to be, or you can just create a circle and change the radius until it works. Either approach is fine!</p>
+<p>Encase your code with a union block from Set Ops, to join the border to the other hoops. Add a difference block to the plus section of union, and two cylinder blocks to make the hoop.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/pendant-border-show.png"><img class="aligncenter size-full wp-image-55464" src="https://www.raspberrypi.org/app/uploads/2020/01/pendant-border-show.png" alt="" width="244" height="228" /></a></p>
+<p>The six hoops each have a radius of 12 mm, so the border cylinder that you are making needs to be bigger than that. You could try setting the radius to 24 mm.</p>
+<p>To make a hoop, the radius of the second cylinder in the difference block needs to be 1 mm smaller than the radius of the first cylinder.</p>
+<p>Adjust the size of the cylinders until the border hoop just touches the outer edges of the six inner hoops.</p>
+<p>The radius should be around 20 mm. (As mentioned in the introduction, the finished pendant will be 40 mm in diameter.)</p>
+<h2>Step 05: work it out</h2>
+<p>You could also use maths to work out the diameter. The diameter of each inner hoop is 24 mm. If the hoops met at the centre of the pendant, the border hoop would need to have a radius of 24 mm. But the inner hoops overlap, as they are translated 5 mm along the X and Y axes.</p>
+<p>This removes a section from the radius. This section is on the arc, 5 mm from the origin, so we need to remove 5 mm from 24 mm. Thus the inner radius of the border hoop should be 19 mm.</p>
+<p>Maths is really useful when you need to be accurate. But it&#8217;s fine to just change things until you get the result you need.</p>
+<h2>Step 06: add a hanging hoop</h2>
+<p>Now, add a small hanging hoop through which you can thread a cord to make a necklace.</p>
+<p>Click the [+] on the union block to add another section to add the new hoop.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/pendant-hang.png"><img class="aligncenter size-full wp-image-55471" src="https://www.raspberrypi.org/app/uploads/2020/01/pendant-hang.png" alt="" width="1351" height="438" srcset="https://www.raspberrypi.org/app/uploads/2020/01/pendant-hang.png 1351w, https://www.raspberrypi.org/app/uploads/2020/01/pendant-hang-300x97.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/pendant-hang-500x162.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/pendant-hang-768x249.png 768w" sizes="(max-width: 1351px) 100vw, 1351px" /></a></p>
+<p>At the moment, the position of the hanging hoop isn&#8217;t very visually pleasing.</p>
+<p>Add a rotate block to move the inner hoops so that the hanging hoop is centred over one of the gaps between them.</p>
+<h2>Step 07: experiment with shapes</h2>
+<p>Experiment and change some values in your pendant. For example, change the number of hoops, or the rotation.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/pendant-challenge.png"><img class="aligncenter size-full wp-image-55466" src="https://www.raspberrypi.org/app/uploads/2020/01/pendant-challenge.png" alt="" width="699" height="311" srcset="https://www.raspberrypi.org/app/uploads/2020/01/pendant-challenge.png 699w, https://www.raspberrypi.org/app/uploads/2020/01/pendant-challenge-300x133.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/pendant-challenge-500x222.png 500w" sizes="(max-width: 699px) 100vw, 699px" /></a></p>
+<p>You could also try to use cuboids (cubes) instead of cylinders to create a pattern.</p>
+<h2>Step 08: export to STL</h2>
+<p>BlocksCAD 3D can export an STL file for 3D printing. Render your model and then click on Generate STL. Remember where you save the STL file. Now 3D-print your pendant using a filament of the colour of your choice. Very carefully remove the 3D print from the print bed. The pendant is thin, so it&#8217;s quite delicate.</p>
+<p>You might need to remove small strands of filament (especially from the hanging hoop) to tidy up the print.</p>
+<p>Thread the pendant on to a chain or cord. If you want to use a thicker cord or necklace, then you can adjust the design to have a larger hanging hoop.</p>
+<h2>Check your code</h2>
+<p>You can download the full <a href="https://github.com/RaspberryPiLearning/blockscad-pendant">code</a> and check it against your own. You can also check out our <a href="https://projects.raspberrypi.org/en/projects/blockscad-pendant">projects page</a>, where you&#8217;ll find more images and step-by-step instructions for <a href="https://projects.raspberrypi.org/en/projects?software%5B%5D=blockscad">using BlocksCAD</a>.</p>
+<p>This project was created by Dr Tracy Gardner and the above article was featured in this month&#8217;s issue of <a href="https://magpi.raspberrypi.org/issues/89">The MagPi magazine</a>. Get your copy of The MagPi magazine issue 89 today from your local newsagent, the <a href="https://www.raspberrypi.org/raspberry-pi-store/">Raspberry Pi Store, Cambridge</a>, or online from <a href="https://store.rpipress.cc/products/the-magpi-magazine-89">Raspberry Pi Press</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/design-3d-prints-with-a-raspberry-pi-and-blockscad/">Design 3D prints with a Raspberry Pi and BlocksCAD</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://www.raspberrypi.org/blog/design-3d-prints-with-a-raspberry-pi-and-blockscad/feed/
+            </wfw:commentRss>
+            <slash:comments>4</slash:comments>
+        </item>
+        <item>
+            <title>How to set up OctoPrint on your Raspberry Pi</title>
+            <link>https://www.raspberrypi.org/blog/how-to-set-up-octoprint-on-your-raspberry-pi/</link>
+            <comments>https://www.raspberrypi.org/blog/how-to-set-up-octoprint-on-your-raspberry-pi/#comments</comments>
+            <pubDate>Tue, 07 Jan 2020 15:37:32 +0000</pubDate>
+            <dc:creator><![CDATA[Alex Bate]]></dc:creator>
+            <category><![CDATA[Third-Party Products]]></category>
+            <category><![CDATA[HackSpace]]></category>
+            <category><![CDATA[Raspberry Pi 3]]></category>
+            <category><![CDATA[Raspberry Pi Camera Module]]></category>
+            <category><![CDATA[Raspberry Pi 3B+]]></category>
+            <category><![CDATA[Raspberry Pi 3A+]]></category>
+            <category><![CDATA[Raspberry Pi 4]]></category>
+            <category><![CDATA[tutorial]]></category>
+            <category><![CDATA[3D printing]]></category>
+            <category><![CDATA[OctoPrint]]></category>
+
+            <guid isPermaLink="false">https://www.raspberrypi.org/?p=55430</guid>
+            <description><![CDATA[<p>If you own a 3D printer, you’ll likely have at least heard of OctoPrint, created by Gina Häußge and maintained by her and Guy Sheffer! OctoPrint has the potential to transform your 3D printing workflow for the better, and it’s very easy to set up. This guide will take you through the setup process step [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/how-to-set-up-octoprint-on-your-raspberry-pi/">How to set up OctoPrint on your Raspberry Pi</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>If you own a 3D printer, you’ll likely have at least heard of OctoPrint, created by Gina Häußge and maintained by her and Guy Sheffer! OctoPrint has the potential to transform your 3D printing workflow for the better, and it’s very easy to set up. This guide will take you through the setup process step by step, and give you some handy tips along the way.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/octoprintLogo.png"><img class="aligncenter size-full wp-image-55433" src="https://www.raspberrypi.org/app/uploads/2020/01/octoprintLogo.png" alt="Octoprint" width="520" height="421" srcset="https://www.raspberrypi.org/app/uploads/2020/01/octoprintLogo.png 520w, https://www.raspberrypi.org/app/uploads/2020/01/octoprintLogo-300x243.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/octoprintLogo-500x405.png 500w" sizes="(max-width: 520px) 100vw, 520px" /></a></p>
+<p>Before we start finding out how to install OctoPrint, let’s look at why you might want to. OctoPrint is a piece of open-source software that allows us to add WiFi functionality to any 3D printer with a USB port (which is pretty much all of them). More specifically, you’ll be able to drop files from your computer onto your printer, start/stop prints, monitor your printer via a live video feed, control the motors, control the temperature, and more, all from your web browser. Of course, with great power comes great responsibility — 3D printers have parts that are hot enough to cause fires, so make sure you have a safe setup, which may include not letting it run unsupervised.</p>
+<h2>OctoPrint ingredients</h2>
+<p>• Raspberry Pi 3 (or newer)<br />
+• <a href="https://www.raspberrypi.org/documentation/installation/sd-cards.md">MicroSD card</a><br />
+• Raspberry Pi power adapter<br />
+• USB cable (the connector type will depend on your printer)<br />
+• Webcam/Raspberry Pi Camera Module (optional)<br />
+• 3D-printed camera mount (optional)</p>
+<p>Before we get started, it is not recommended that anything less than a Raspberry Pi 3 is used for this project. There have been reports of limited success using OctoPrint on a Raspberry Pi Zero W, but only if you have no intention of using a camera to monitor your prints. If you want to try this with a Pi Zero or an older Raspberry Pi, you may experience unexpected print failures.</p>
+<h2>Download OctoPi</h2>
+<p>Firstly, you will need to download the latest version of OctoPi from <a href="http://octoprint.org/download">the OctoPrint website</a>. OctoPi (created by Guy Sheffer) is a Raspbian distribution that comes with OctoPrint, video streaming software, and CuraEngine for slicing models on your Raspberry Pi. When this has finished downloading, unzip the file and put the resulting IMG file somewhere handy.</p>
+<p>Next, we need to flash this image onto our microSD card. We recommend using Etcher to do this, due to its minimal UI and ease of use; plus it’s also available to use on both Windows and Mac. Get it here: <a href="http://balena.io/etcher">balena.io/etcher</a>. When Etcher is installed and running, you’ll see the UI displayed. Simply click the <strong>Select Image</strong> button and find the IMG file you unzipped earlier. Next, put your microSD card into your computer and select it in the middle column of the Etcher interface.</p>
+<p>Finally, click on <strong>Flash!</strong>, and while the image is being burned onto the card, get your WiFi router details, as you’ll need them for the next step.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/Etcher.png"><img class="aligncenter size-full wp-image-55431" src="https://www.raspberrypi.org/app/uploads/2020/01/Etcher.png" alt="" width="1598" height="958" srcset="https://www.raspberrypi.org/app/uploads/2020/01/Etcher.png 1598w, https://www.raspberrypi.org/app/uploads/2020/01/Etcher-300x180.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/Etcher-500x300.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/Etcher-768x460.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/Etcher-1536x921.png 1536w" sizes="(max-width: 1598px) 100vw, 1598px" /></a></p>
+<p>Now that you have your operating system, you’ll want to add your WiFi details so that the Raspberry Pi can automatically connect to your network after it’s booted. To do this, remove the microSD card from your computer (Etcher will have ‘ejected’ the card after it has finished burning the image onto it) and then plug it back in again. Navigate to the microSD card on your computer — it should now be called <code>boot</code> — and open the file called <code>octopi-wpa-supplicant.txt</code>. Editing this file using WordPad or TextEdit can cause formatting issues; we recommend using <a href="http://hsmag.cc/SjuXIP">Notepad++</a> to update this file, but there are instructions within the file itself to mitigate formatting issues if you do choose to use another text editor. Find the section that begins <code>## WPA/WPA2 secured</code> and remove the hash signs from the four lines below this one to uncomment them. Finally, replace the SSID value and the PSK value with the name and password for your WiFi network, respectively (keeping the quotation marks). See the example below for how this should look.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/carbon-7.png"><img class="aligncenter size-full wp-image-55441" src="https://www.raspberrypi.org/app/uploads/2020/01/carbon-7.png" alt="" width="1220" height="1044" srcset="https://www.raspberrypi.org/app/uploads/2020/01/carbon-7.png 1220w, https://www.raspberrypi.org/app/uploads/2020/01/carbon-7-292x250.png 292w, https://www.raspberrypi.org/app/uploads/2020/01/carbon-7-500x428.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/carbon-7-768x657.png 768w" sizes="(max-width: 1220px) 100vw, 1220px" /></a></p>
+<p>Further down in the file, there is a section for what country you are in. If you are using OctoPrint in the UK, leave this as is (by default, the UK is selected). However, if you wish to change this, simply comment the UK line again by adding a # before it, and uncomment whichever country you are setting up OctoPrint in. The example below shows how the file will look if you are setting this up for use in the US:</p>
+<pre># Uncomment the country your Pi is in to activate Wifi in RaspberryPi 3 B+ and above
+# For full list see: https://en.wikipedia.org/ wiki/ISO_3166-1_alpha-2
+#country=GB # United Kingdom
+#country=CA # Canada
+#country=DE # Germany
+#country=FR # France
+country=US # United States</pre>
+<p>When the changes have been made, save the file and then eject/unmount and remove the microSD card from your computer and put it into your Raspberry Pi. Plug the power supply in, and go and make a cup of tea while it boots up for the first time (this may take around ten minutes). Make sure the Raspberry Pi is running as expected (i.e. check that the green status LED is flashing intermittently). If you&#8217;re using macOS, visit <a href="http://octopi.local">octopi.local</a> in your browser of choice. If you’re using Windows, you can find OctoPrint by clicking on the Network tab in the sidebar. It should be called OctoPrint instance on octopi – double-clicking on this will open the OctoPrint dashboard in your browser.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/OctoprintSplashPage.png"><img class="aligncenter size-full wp-image-55434" src="https://www.raspberrypi.org/app/uploads/2020/01/OctoprintSplashPage.png" alt="" width="2034" height="766" srcset="https://www.raspberrypi.org/app/uploads/2020/01/OctoprintSplashPage.png 2034w, https://www.raspberrypi.org/app/uploads/2020/01/OctoprintSplashPage-300x113.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/OctoprintSplashPage-500x188.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/OctoprintSplashPage-768x289.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/OctoprintSplashPage-1536x578.png 1536w, https://www.raspberrypi.org/app/uploads/2020/01/OctoprintSplashPage-1920x723.png 1920w" sizes="(max-width: 2034px) 100vw, 2034px" /></a></p>
+<p>If you see the screen shown above, then congratulations! You have set up OctoPrint.</p>
+<p>Not seeing that OctoPrint splash screen? Fear not, you are not the first. While a full list of issues is beyond the scope of this article, common issues include: double-checking your WiFi details are entered correctly in the <code>octopi-wpa-supplicant.txt</code> file, ensuring your Raspberry Pi is working correctly (plug the Raspberry Pi into a monitor and watch what happens during boot), or your Raspberry Pi may be out of range of your WiFi router. There’s a detailed list of troubleshooting suggestions on <a href="http://hsmag.cc/4nPSfL">the OctoPrint website</a>.</p>
+<h2>Printing with OctoPrint</h2>
+<p>We now have the opportunity to set up OctoPrint for our printer using the handy wizard. Most of this is very straightforward — setting up a password, signing up to send anonymous usage stats, etc. — but there are a few sections which require a little more thought.</p>
+<p>We recommend enabling the connectivity check and the plug-ins blacklist to help keep things nice and stable. If you plan on using OctoPrint as your slicer as well as a monitoring tool, then you can use this step to import a Cura profile. However, we recommend skipping this step as it’s much quicker (and you can use a slicer of your choice) to slice the model on your computer, and then send the finished G-code over.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/setup.png"><img class="aligncenter size-full wp-image-55437" src="https://www.raspberrypi.org/app/uploads/2020/01/setup.png" alt="" width="1384" height="1084" srcset="https://www.raspberrypi.org/app/uploads/2020/01/setup.png 1384w, https://www.raspberrypi.org/app/uploads/2020/01/setup-300x235.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/setup-500x392.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/setup-768x602.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/setup-1379x1080.png 1379w" sizes="(max-width: 1384px) 100vw, 1384px" /></a></p>
+<p>Finally, we need to put in our printer details. Above, we’ve included some of the specs of the Creality Ender-3 as an example. If you can’t find the exact details of your printer, a quick web search should show what you need for this section.</p>
+<p>The <strong>General</strong> tab can have anything in it, it’s just an identifier for your own use. <strong>Print bed &amp; build volume</strong> should be easy to find out — if not, you can measure your print bed and find out the position of the origin by looking at your Cura printer profile. Leave <strong>Axes</strong> as default; for the <strong>Hotend and extruder</strong> section, defaults are almost certainly fine here (unless you’ve changed your nozzle; 0.4 is the default diameter for most consumer printers).</p>
+<h2>OctoPrint is better with a camera</h2>
+<p>Now that you’re set up with OctoPrint, you’re ready to start printing. Turn off your Raspberry Pi, then plug it into your 3D printer. After it has booted up, open OctoPrint again in your browser and take your newly WiFi-enabled printer for a spin by clicking the <strong>Connect</strong> button. After it has connected, you’ll be able to set the hot end and bed temperature, then watch as the real-time readings are updated.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/TemperatureControl.png"><img class="aligncenter size-full wp-image-55438" src="https://www.raspberrypi.org/app/uploads/2020/01/TemperatureControl.png" alt="" width="1266" height="1184" srcset="https://www.raspberrypi.org/app/uploads/2020/01/TemperatureControl.png 1266w, https://www.raspberrypi.org/app/uploads/2020/01/TemperatureControl-267x250.png 267w, https://www.raspberrypi.org/app/uploads/2020/01/TemperatureControl-500x468.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/TemperatureControl-768x718.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/TemperatureControl-1155x1080.png 1155w" sizes="(max-width: 1266px) 100vw, 1266px" /></a></p>
+<p>In the <strong>Control</strong> tab, we can see the camera stream (if you’re using one) and the motor controls, as well as commands to home the axes. There’s a G-code file viewer to look through a cross-section of the currently loaded model, and a terminal to send custom G-code commands to your printer. The last tab is for making time-lapses; however, there is a plug-in available to help with this process.</p>
+<p>Undoubtedly the easiest way to set up video monitoring of your prints is to use the official <a href="https://www.raspberrypi.org/products/camera-module-v2/">Raspberry Pi Camera Module</a>. There are dozens of awesome mounts on Thingiverse for a Raspberry Pi Camera Module, to allow you to get the best angle of your models as they print. There are also some awesome OctoPrint-themed Raspberry Pi cases to house your new printer brains. While it isn’t officially supported by OctoPrint, you can use a USB webcam instead if you have one handy, or just want some very high-quality video streams. <a href="http://hsmag.cc/aREXbo">The OctoPrint wiki</a> has a crowdsourced list of webcams known to work, as well as a link for the extra steps needed to get the webcam working correctly.</p>
+<p>As mentioned earlier, our recommended way of printing a model using OctoPrint is to first use your slicer as you would if you were creating a file to save to a microSD card. Once you have the file, save it somewhere handy on your computer, and open the OctoPrint interface. In the bottom left of the screen, you will see the <strong>Upload File</strong> button — click this and upload the G-code you wish to print.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/GcodeViewer.png"><img class="aligncenter size-full wp-image-55432" src="https://www.raspberrypi.org/app/uploads/2020/01/GcodeViewer.png" alt="" width="612" height="580" srcset="https://www.raspberrypi.org/app/uploads/2020/01/GcodeViewer.png 612w, https://www.raspberrypi.org/app/uploads/2020/01/GcodeViewer-264x250.png 264w, https://www.raspberrypi.org/app/uploads/2020/01/GcodeViewer-500x474.png 500w" sizes="(max-width: 612px) 100vw, 612px" /></a></p>
+<p>You’ll see the file/print details appear, including information on how long it’ll take for the object to print. Before you kick things off, check out the <strong>G-code Viewer</strong> tab on the right. You can not only scroll through the layers of the object, but, using the slider at the bottom, you can see the exact pattern the 3D printer will use to ‘draw’ each layer. Now click Print and watch your printer jump into action!</p>
+<p>OctoPrint has scores of community-created <a href="http://hsmag.cc/XVlSFS">plug-ins</a>, but our favourite, Octolapse, makes beautiful hypnotic time-lapses. What makes them so special is that the plug-in alters the G-code of whatever object you are printing so that once each layer has finished, the extruder moves away from the print to let the camera take an unobstructed shot of the model. The result is an object that seems to grow out of the build plate as if by magic. You’ll not find a finer example of it than here.</p>
+<blockquote class="embedly-card" data-card-controls="0" data-card-theme="light" data-card-key="25dbee0f6d6647cd915208cf783cf42d">
+<h4><a href="https://www.youtube.com/watch?v=Dss1yUHH-QY">Satisfying 3D Prints TimeLapse episode 7 (Prusa I3 Mk3 octopi)</a></h4>
+<p>3D Printing timelapses of models printed on the Prusa i3 MK3! Here&#8217;s another compilation of my recent timelapses. I got some shots that i think came out really great and i hope you enjoy them! as always if you want to see some of these timelapses before they come out or want to catch some behind the scenes action check out my instagram!</p>
+</blockquote>
+<p><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></p>
+<h2>Thanks to Gina and Guy</h2>
+<p>OctoPrint was created and is maintained by <a href="https://twitter.com/foosel">Gina Häußge (@foosel)</a> and <a href="https://twitter.com/GuySoft">Guy Sheffer (@GuySoft)</a>! A big thank you to both of them for putting in many, many volunteer hours to provide the world with an amazing piece of free, open-source software.</p>
+<p>Head over to the OctoPrint website to find out how you can <a href="https://octoprint.org/support-octoprint/">support OctoPrint&#8217;s continued existence</a>.</p>
+<h2>Thanks to Glenn and HackSpace magazine</h2>
+<p>This tutorial comes fresh from the pages of HackSpace magazine issue 26 and was written by <a href="https://twitter.com/BatGlenn13">Glenn Horan</a>. Thanks, Glenn.</p>
+<p>To get your copy of HackSpace magazine issue 26, visit your local newsagent, the <a href="https://www.raspberrypi.org/raspberry-pi-store/">Raspberry Pi Store, Cambridge</a>, or <a href="https://store.rpipress.cc/collections/hackspace-magazine/products/hackspace-magazine-26">the Raspberry Pi Press online store</a>.</p>
+<p>Fans of HackSpace magazine will also score themselves a rather delightful Adafruit Circuit Playground Express with a 12-month subscription. Sweet!</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/how-to-set-up-octoprint-on-your-raspberry-pi/">How to set up OctoPrint on your Raspberry Pi</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://www.raspberrypi.org/blog/how-to-set-up-octoprint-on-your-raspberry-pi/feed/
+            </wfw:commentRss>
+            <slash:comments>8</slash:comments>
+        </item>
+        <item>
+            <title>What makes a mechanical keyboard &#8216;clicky&#8217;?</title>
+            <link>https://www.raspberrypi.org/blog/what-makes-a-mechanical-keyboard-clicky/</link>
+            <comments>https://www.raspberrypi.org/blog/what-makes-a-mechanical-keyboard-clicky/#comments</comments>
+            <pubDate>Mon, 06 Jan 2020 13:27:17 +0000</pubDate>
+            <dc:creator><![CDATA[Alex Bate]]></dc:creator>
+            <category><![CDATA[Custom PC]]></category>
+            <category><![CDATA[keyboard]]></category>
+            <category><![CDATA[custom pc]]></category>
+
+            <guid isPermaLink="false">https://www.raspberrypi.org/?p=55418</guid>
+            <description><![CDATA[<p>In our latest video for the newly rebranded Raspberry Pi Press YouTube channel, Custom PC&#8217;s Edward Chester explains what mechanical keyboards are, and why they&#8217;re so clicky. How do mechanical keyboards work? So, what makes a mechanical keyboard &#8216;mechanical&#8217;? And why are some mechanical keyboards more &#8216;clicky&#8217; than others? Custom PC&#8217;s Edward Chester explains all. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/what-makes-a-mechanical-keyboard-clicky/">What makes a mechanical keyboard &#8216;clicky&#8217;?</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></description>
+            <content:encoded><![CDATA[<p>In <a href="https://youtu.be/0QHPycNH_N0">our latest video</a> for the newly rebranded Raspberry Pi Press YouTube channel, Custom PC&#8217;s Edward Chester explains what mechanical keyboards are, and why they&#8217;re so clicky.</p>
+<blockquote class="embedly-card" data-card-controls="0" data-card-theme="light" data-card-key="25dbee0f6d6647cd915208cf783cf42d">
+<h4><a href="https://www.youtube.com/watch?v=0QHPycNH_N0">How do mechanical keyboards work?</a></h4>
+<p>So, what makes a mechanical keyboard &#8216;mechanical&#8217;? And why are some mechanical keyboards more &#8216;clicky&#8217; than others? Custom PC&#8217;s Edward Chester explains all. Check out our Elite List of mechanical keyboards: https://rpf.io/elite-list-mechanical-keyboard Subscribe to our channel: https://rpf.iopressytsub Visit the Custom PC magazine website: https://rpf.io/ytcustompc Our magazines and books: https://rpf.io/ytpress Raspberry Pi Press is the publishing imprint of Raspberry Pi Trading Ltd., a subsidiary of The Raspberry Pi Foundation.</p>
+</blockquote>
+<p><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script></p>
+<p>Custom PC is one of the many magazines produced by Raspberry Pi Press, the publishing imprint of Raspberry Pi Trading Ltd; it does exactly what it says on the <del>tin</del> cover: provide everything you need to know about the ins and outs of custom PC building and all the processes that make the topic so fascinating.</p>
+<p><a href="https://www.raspberrypi.org/app/uploads/2020/01/custom-pc-mechanical-keyboard-scaled.png"><img class="aligncenter size-full wp-image-55422" src="https://www.raspberrypi.org/app/uploads/2020/01/custom-pc-mechanical-keyboard-scaled.png" alt="" width="2048" height="1314" srcset="https://www.raspberrypi.org/app/uploads/2020/01/custom-pc-mechanical-keyboard-scaled.png 2048w, https://www.raspberrypi.org/app/uploads/2020/01/custom-pc-mechanical-keyboard-300x192.png 300w, https://www.raspberrypi.org/app/uploads/2020/01/custom-pc-mechanical-keyboard-500x321.png 500w, https://www.raspberrypi.org/app/uploads/2020/01/custom-pc-mechanical-keyboard-768x493.png 768w, https://www.raspberrypi.org/app/uploads/2020/01/custom-pc-mechanical-keyboard-1536x985.png 1536w, https://www.raspberrypi.org/app/uploads/2020/01/custom-pc-mechanical-keyboard-1684x1080.png 1684w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<p>Be sure to <a href="https://rpf.iopress/ytsub">subscribe to the Raspberry Pi Press YouTube channel</a>, because we&#8217;ll be offering more videos from Custom PC, alongside content from <a href="https://magpi.raspberrypi.org/">The MagPi magazine</a>, HackSpace magazine, <a href="https://wireframe.raspberrypi.org/">Wireframe,</a> and our future standalone book publications, such as <a href="https://store.rpipress.cc/collections/books/products/the-official-raspberry-pi-beginners-guide-3rd-edition">The Official Raspberry Pi Beginner’s Guide</a> and <a href="https://store.rpipress.cc/collections/books/products/an-introduction-to-c-gui-programming">An Introduction to C &amp; GUI Programming</a> (the latter of which is currently on sale with free worldwide shipping!), on that channel very soon.</p>
+<p>The post <a rel="nofollow" href="https://www.raspberrypi.org/blog/what-makes-a-mechanical-keyboard-clicky/">What makes a mechanical keyboard &#8216;clicky&#8217;?</a> appeared first on <a rel="nofollow" href="https://www.raspberrypi.org">Raspberry Pi</a>.</p>
+]]></content:encoded>
+            <wfw:commentRss>https://www.raspberrypi.org/blog/what-makes-a-mechanical-keyboard-clicky/feed/
+            </wfw:commentRss>
+            <slash:comments>8</slash:comments>
+        </item>
+    </channel>
+</rss>
+
+        <!--
+        Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+        Object Caching 243/246 objects using memcached
+        Page Caching using memcached
+        Database Caching 10/15 queries in 0.163 seconds using memcached
+
+        Served from: www.raspberrypi.org @ 2020-01-20 04:20:21 by W3 Total Cache
+        -->

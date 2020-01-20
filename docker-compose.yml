@@ -21,3 +21,12 @@ services:
       - ELASTICSEARCH_URL=http://es:9200
     depends_on:
       - es
+      - serve
+  serve:
+    image: node:8.9
+    command: yarn serve
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - 5000:5000
