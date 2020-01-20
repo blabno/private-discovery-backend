@@ -30,11 +30,17 @@ const search = filter => {
   }
   const params = ['post', 'like']
     .map(type => daoUtil.getParams(type, query))
-    .reduce((acc, { type, index, body }) => Object.assign(acc,
-      { type: [...acc.type, type], index: [...acc.index, index], body }),
-    { type: [], index: [] });
+    .reduce((acc, { type, index, body }) => {
+        return Object.assign(acc, { type: [...acc.type, type], index: [...acc.index, index], body });
+      },
+      { type: [], index: [] });
+
+  const copyTypeToSource = result => {
+    return _.chain(result).get('hits.hits').forEach(i => Object.assign(i._source, { type: i._type })).value();
+  };
+
   return daoUtil.getElasticSearchClient().search(params)
-    .tap(result => result.hits.hits.forEach(i => Object.assign(i._source, { type: i._type })))
+    .tap(result => copyTypeToSource(result))
     .then(entityConverter.forPagination);
 };
 

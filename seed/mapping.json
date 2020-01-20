@@ -6,6 +6,10 @@
         "type": "date",
         "format": "epoch_millis"
       },
+      "like": {
+        "type": "boolean",
+        "index": false
+      },
       "title": {
         "type": "text"
       },

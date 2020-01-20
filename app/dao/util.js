@@ -25,6 +25,23 @@ const getParams = (type, params) => {
   };
 };
 
+function createRemoveMethod(type) {
+  return id => {
+    const params = getParams(type, { id, refresh: true });
+    return es.delete(params).then(() => null);
+  };
+}
+
+function createSaveMethod(type) {
+  return document => {
+    const id = document.id;
+    const copy = { ...document };
+    delete copy.id;
+    const params = getParams(type, { id, body: copy, refresh: true });
+    return es.index(params).then(result => Object.assign(copy, { id: result._id }));
+  };
+}
+
 const createSaveBulkMethod = type => {
   return documents => {
     const action = { _index: getIndexName(type), _type: type };
@@ -56,6 +73,8 @@ const createScrollMethod = type => {
 };
 
 module.exports = {
+  createRemoveMethod,
+  createSaveMethod,
   createSaveBulkMethod,
   createScrollMethod,
   getElasticSearchClient,

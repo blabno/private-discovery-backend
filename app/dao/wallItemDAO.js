@@ -22,6 +22,10 @@ const update = (id, doc) => {
     });
 };
 
+const markLiked = id => update(id, { like: true });
+
+const markNotLiked = id => update(id, { like: false });
+
 const markNotRead = id => update(id, { read: false });
 
 const markRead = id => update(id, { read: true });
@@ -62,6 +66,8 @@ const search = (filter = {}) => {
 };
 
 module.exports = {
+  markLiked,
+  markNotLiked,
   markNotRead,
   markRead,
   saveBulk: daoUtil.createSaveBulkMethod(type),
