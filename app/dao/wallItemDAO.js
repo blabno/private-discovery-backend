@@ -33,7 +33,7 @@ const markRead = id => update(id, { read: true });
 const search = (filter = {}) => {
   const must = [];
   const mustNot = [];
-  if (!filter.includeUnread) {
+  if (filter.unreadOnly) {
     mustNot.push({ term: { read: true } });
   }
   const query = {

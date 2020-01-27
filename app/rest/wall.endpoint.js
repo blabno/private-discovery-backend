@@ -19,7 +19,7 @@ module.exports = {
         validate: {
           query: {
             q: joi.string(),
-            includeUnread: joi.boolean().default(false),
+            unreadOnly: joi.boolean().default(true),
             size: joi.number().integer().min(0).max(100),
             from: joi.number().integer().min(0)
           }
