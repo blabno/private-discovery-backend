@@ -35,6 +35,7 @@ const hapiSwaggerPlugin = {
   plugin: hapiSwagger,
   options: {
     host: config.swagger.host,
+    schemes: config.swagger.schemes,
     basePath: '/',
     pathPrefixSize: 1,
     expanded: 'none',

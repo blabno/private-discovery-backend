@@ -18,6 +18,7 @@ module.exports = {
   },
   port: process.env.PORT || 3000,
   swagger: {
-    host: hostAndPort
+    host: hostAndPort,
+    schemes: (process.env.SHEMAS && process.env.SHEMAS.split(',')) || ['http']
   }
 };
