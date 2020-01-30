@@ -1,0 +1,41 @@
+version: '2'
+services:
+  alice:
+    image: node:8.9
+    command: yarn nodemon
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - 3300:3000
+    environment:
+      - APP_DOMAIN=alice-pd.labnoratory.com
+      - ELASTICSEARCH_URL
+      - ELASTICSEARCH_INDEX_SUFFIX=alice
+      - SHEMAS=https
+  bob:
+    image: node:8.9
+    command: yarn nodemon
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - 3301:3000
+    environment:
+      - APP_DOMAIN=bob-pd.labnoratory.com
+      - ELASTICSEARCH_URL
+      - ELASTICSEARCH_INDEX_SUFFIX=bob
+      - SHEMAS=https
+  jess:
+    image: node:8.9
+    command: yarn nodemon
+    working_dir: /app
+    volumes:
+      - ./:/app
+    ports:
+      - 3302:3000
+    environment:
+      - APP_DOMAIN=jess-pd.labnoratory.com
+      - ELASTICSEARCH_URL
+      - ELASTICSEARCH_INDEX_SUFFIX=jess
+      - SHEMAS=https
