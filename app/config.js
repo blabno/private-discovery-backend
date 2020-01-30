@@ -8,7 +8,7 @@ const hostAndPort = process.env.APP_DOMAIN || 'localhost:3000';
 module.exports = {
   production: process.env.PRODUCTION || false,
   es: {
-    index: 'private-discovery',
+    index: process.env.ELASTICSEARCH_INDEX_SUFFIX ? `private-discovery-${process.env.ELASTICSEARCH_INDEX_SUFFIX}` : 'private-discovery',
     options: {
       defer: () => Promise.defer(),
       apiVersion: '6.2',
