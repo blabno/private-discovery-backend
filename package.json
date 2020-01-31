@@ -32,8 +32,10 @@
   "scripts": {
     "lint": "eslint .",
     "nodemon": "nodemon app/web.js",
+    "readWall": "node scripts/markWallRead.js",
     "seed": "node seed",
     "serve": "serve",
-    "start": "node app/web.js"
+    "start": "node app/web.js",
+    "syncSubscriptions": "node scripts/syncSubscriptions.js"
   }
 }

@@ -66,10 +66,10 @@ const search = (filter = {}) => {
 };
 
 module.exports = {
+  createBulk: daoUtil.createCreateBulkMethod(type),
   markLiked,
   markNotLiked,
   markNotRead,
   markRead,
-  saveBulk: daoUtil.createSaveBulkMethod(type),
   search
 };

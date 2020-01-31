@@ -20,7 +20,7 @@ Swagger documentation will be available at http://localhost:3000/documentation.
 
 Seed sample data:
 
-    docker-compose run app yarn seed
+    docker-compose exec app yarn seed
     
 In case of seed failure:
 
@@ -35,3 +35,10 @@ HTTP server to host static sample files is started by Docker Compose:
 
     curl http://localhost:5000/sample/rss/toshi-times.xml
     
+Sync subscriptions:
+
+    docker-compose exec app yarn syncSubscriptions
+    
+Mark all items in wall as read:
+
+    docker-compose exec app yarn readWall

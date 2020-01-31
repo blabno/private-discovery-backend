@@ -42,7 +42,7 @@ function createSaveMethod(type) {
   };
 }
 
-const createSaveBulkMethod = type => {
+const createBulkMethod = (type, actionType) => {
   return documents => {
     const action = { _index: getIndexName(type), _type: type };
     const body = documents.reduce((acc, item) => {
@@ -52,13 +52,17 @@ const createSaveBulkMethod = type => {
         actionCopy._id = item.id;
         delete itemCopy.id;
       }
-      acc.push({ index: actionCopy });
+      acc.push({ [actionType]: actionCopy });
       acc.push(itemCopy);
       return acc;
     }, []);
     return es.bulk({ body });
   };
 };
+
+const createCreateBulkMethod = type => createBulkMethod(type, 'create');
+
+const createSaveBulkMethod = type => createBulkMethod(type, 'index');
 
 const createScrollMethod = type => {
   return (query, callback, settings) => {
@@ -73,6 +77,7 @@ const createScrollMethod = type => {
 };
 
 module.exports = {
+  createCreateBulkMethod,
   createRemoveMethod,
   createSaveMethod,
   createSaveBulkMethod,
