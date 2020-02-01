@@ -1,5 +1,7 @@
 'use strict';
 
+const _ = require('lodash');
+
 const applicationError = require('../service/applicationError');
 const daoUtil = require('./util');
 const entityConverter = require('./entityConverter');
@@ -36,6 +38,13 @@ const search = (filter = {}) => {
   if (filter.unreadOnly) {
     mustNot.push({ term: { read: true } });
   }
+
+  _.chain(filter.tags)
+    .split(',')
+    .forEach(
+      tag => tag.startsWith('-') ? mustNot.push({ term: { tags: tag.substr(1) } }) : must.push({ term: { tags: tag } }))
+    .value();
+
   const query = {
     body: {
       query: {
@@ -67,9 +76,11 @@ const search = (filter = {}) => {
 
 module.exports = {
   createBulk: daoUtil.createCreateBulkMethod(type),
+  getById: daoUtil.createGetByIdMethod(type),
   markLiked,
   markNotLiked,
   markNotRead,
   markRead,
+  save: daoUtil.createSaveMethod(type),
   search
 };

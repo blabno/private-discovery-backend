@@ -2,10 +2,13 @@
 
 const elasticsearch = require('elasticsearch');
 
+const applicationError = require('../service/applicationError');
 const config = require('../config');
+const entityConverter = require('./entityConverter');
 const scroller = require('./scroll');
 
 const es = new elasticsearch.Client({ ...config.es.options });
+const { NotFoundError } = applicationError;
 
 const getElasticSearchClient = () => es;
 
@@ -24,6 +27,19 @@ const getParams = (type, params) => {
     ...getParamsWithoutType(type, params)
   };
 };
+
+function createGetByIdMethod(type) {
+  return id => {
+    const params = getParams(type, { id });
+    return es.get(params).then(entityConverter.fromDB).catch(error => {
+      if (404 === error.status) {
+        throw new NotFoundError(`${type} with id=${id} not found`);
+      } else {
+        throw error;
+      }
+    });
+  };
+}
 
 function createRemoveMethod(type) {
   return id => {
@@ -78,6 +94,7 @@ const createScrollMethod = type => {
 
 module.exports = {
   createCreateBulkMethod,
+  createGetByIdMethod,
   createRemoveMethod,
   createSaveMethod,
   createSaveBulkMethod,

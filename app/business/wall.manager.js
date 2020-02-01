@@ -21,11 +21,18 @@ function create(/* business*/) {
 
   const search = filter => wallItemDAO.search(filter);
 
+  const tag = async (id, tags) => {
+    const item = await wallItemDAO.getById(id);
+    item.tags = tags;
+    return await wallItemDAO.save(item);
+  };
+
   return {
     like,
     markNotRead,
     markRead,
     search,
+    tag,
     unlike
   };
 }

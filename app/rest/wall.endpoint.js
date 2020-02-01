@@ -21,7 +21,8 @@ module.exports = {
             q: joi.string(),
             unreadOnly: joi.boolean().default(true),
             size: joi.number().integer().min(0).max(100),
-            from: joi.number().integer().min(0)
+            from: joi.number().integer().min(0),
+            tags: joi.string()
           }
         },
         plugins: {
@@ -115,6 +116,33 @@ module.exports = {
       handler(request, reply) {
         return Promise.try(() => business(request).getWallManager().like(request.params.id))
           .then(() => reply.response().code(204))
+          .catch(error => restUtil.handleError(error, reply));
+      }
+    });
+    server.route({
+      method: 'POST',
+      path: '/wall/{id}/tag',
+      config: {
+        description: 'Tag wall item',
+        tags: ['api'],
+        validate: {
+          params: {
+            id: joi.string().required()
+          },
+          payload: joi.array().items(joi.string()).required().label("tags")
+        },
+        plugins: {
+          'hapi-swagger': {
+            responses: {
+              200: {
+                schema: schema.wallItem.withId
+              }
+            }
+          }
+        }
+      },
+      handler(request, reply) {
+        return Promise.try(() => business(request).getWallManager().tag(request.params.id, request.payload))
           .catch(error => restUtil.handleError(error, reply));
       }
     });

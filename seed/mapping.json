@@ -19,6 +19,10 @@
       },
       "read": {
         "type": "keyword"
+      },
+      "tags": {
+        "type": "text",
+        "analyzer": "lowercase"
       }
     }
   },
