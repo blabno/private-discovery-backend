@@ -39,10 +39,12 @@ const search = (filter = {}) => {
     mustNot.push({ term: { read: true } });
   }
 
+  const pushIfNotEmpty = (array, tags) => tags.trim().length ? array.push({ term: { tags } }) : null;
+
   _.chain(filter.tags)
     .split(',')
     .forEach(
-      tag => tag.startsWith('-') ? mustNot.push({ term: { tags: tag.substr(1) } }) : must.push({ term: { tags: tag } }))
+      tag => tag.startsWith('-') ? pushIfNotEmpty(mustNot, tag.substr(1)) : pushIfNotEmpty(must, tag))
     .value();
 
   const query = {
