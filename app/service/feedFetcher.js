@@ -29,7 +29,8 @@ const parse = (format, body) => {
   }
 };
 
-const mapIds = (id, items) => _.map(items, i => _.set(i, 'id', `${id}-${sha256(i.id)}`));
+const mapIds = (id, items) => _.map(items,
+  i => _.chain(i).set('id', `${id}-${sha256(i.id)}`).set('subscription.id', id).value());
 
 const fetchFeed = async ({ id, url, format }) => {
   // TODO pass the lastRead argument

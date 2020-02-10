@@ -19,6 +19,7 @@ module.exports = {
         validate: {
           query: {
             q: joi.string(),
+            subscription: joi.string(),
             unreadOnly: joi.boolean().default(true),
             size: joi.number().integer().min(0).max(100),
             from: joi.number().integer().min(0),

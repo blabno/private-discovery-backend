@@ -20,6 +20,14 @@
       "read": {
         "type": "keyword"
       },
+      "subscription": {
+        "dynamic": "strict",
+        "properties": {
+          "id": {
+            "type": "keyword"
+          }
+        }
+      },
       "tags": {
         "type": "text",
         "analyzer": "lowercase"

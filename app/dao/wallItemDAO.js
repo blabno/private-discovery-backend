@@ -38,6 +38,9 @@ const search = (filter = {}) => {
   if (filter.unreadOnly) {
     mustNot.push({ term: { read: true } });
   }
+  if (filter.subscription) {
+    must.push({ term: { 'subscription.id': filter.subscription } });
+  }
 
   const pushIfNotEmpty = (array, tags) => tags.trim().length ? array.push({ term: { tags } }) : null;
 
