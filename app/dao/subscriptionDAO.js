@@ -6,16 +6,30 @@ const entityConverter = require('./entityConverter');
 const type = 'subscription';
 
 const search = filter => {
+  const must = [];
   const query = {
     body: {
+      query: {
+        bool: {
+          must
+        }
+      },
       from: filter.from,
       size: filter.size,
       sort: [
-        { syncDate: { order: 'asc' } }
+        { 'name.raw': { order: 'asc' } }
       ]
     }
   };
-
+  if (filter.q) {
+    must.push({
+      simple_query_string: {
+        query: filter.q,
+        fields: ['name'],
+        default_operator: 'and'
+      }
+    });
+  }
   const params = daoUtil.getParams(type, query);
   return daoUtil.getElasticSearchClient().search(params).then(entityConverter.forPagination);
 };

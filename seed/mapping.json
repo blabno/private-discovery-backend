@@ -63,7 +63,12 @@
         "index": false
       },
       "name": {
-        "type": "keyword"
+        "type": "text",
+        "fields": {
+          "raw": {
+            "type": "keyword"
+          }
+        }
       },
       "url": {
         "type": "keyword"
