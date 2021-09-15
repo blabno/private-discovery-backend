@@ -39,3 +39,14 @@ services:
       - ELASTICSEARCH_URL
       - ELASTICSEARCH_INDEX_SUFFIX=jess
       - SHEMAS=https
+  jess-sync:
+    image: node:8.9
+    command: yarn syncSubscriptionsPeriodically
+    working_dir: /app
+    volumes:
+      - ./:/app
+    environment:
+      - API_URL=http://jess:3000
+      - SYNC_INTERVAL=30000
+    depends_on:
+      - jess

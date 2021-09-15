@@ -36,6 +36,7 @@
     "seed": "node seed",
     "serve": "serve",
     "start": "node app/web.js",
-    "syncSubscriptions": "node scripts/syncSubscriptions.js"
+    "syncSubscriptions": "node scripts/syncSubscriptions.js",
+    "syncSubscriptionsPeriodically": "nodemon scripts/syncSubscriptionsPeriodically.js"
   }
 }
